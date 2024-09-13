@@ -38,8 +38,7 @@ const deliveriesData = require('../csvToJson/deliveries.json');
 //     let matchesPlayed ={};
 //      for(let index=0; index<matchesData.length; index++){
 //      let team = matchesData[index].winner;
-//      let year = matchesData[index].season;
-     
+//      let year = matchesData[index].season;   
 //         if(team !== undefined && team !== null){
 //         if(!matchesPlayed.hasOwnProperty(year)){
 //             matchesPlayed[year]={};
@@ -55,7 +54,67 @@ const deliveriesData = require('../csvToJson/deliveries.json');
 // console.log(teamWonPerYear(matchesData));
 
 
+//5)Find the number of times each team won the toss and also won the match
+//   function tossAndMatch(data){
+//     let winningData={};
+//    for(let index=0; index < data.length; index++)
+//    {
+//       let match = data[index];
+//       let winner = match["winner"];
+//       let tossWinner = match["toss_winner"];
+//       if(match && match["winner"] !== undefined && match["toss_winner"] !== undefined){
+//         if(winner === tossWinner){
+//            if(!winningData.hasOwnProperty(winner))
+//            { 
+//               winningData[winner]=0;
+//            }
+//            winningData[winner]++;
+//         }
+//     }
+// }
+//     return winningData; 
+//   }
+//   console.log(tossAndMatch(matchesData));
+
+//6)Find a player who has won the highest number of Player of the Match awards for each season
+   function highestPlayer(data){
+    let player = {};
+     for(let index=0;index<data.length;index++)
+     {
+        
+        let matchData = data[index];
+        let playerOfMatch = matchData["player_of_match"];
+        let seasonYear = matchData["season"];
+           
+        if(!player.hasOwnProperty(seasonYear))
+         {
+           player[seasonYear]={};
+         }
+
+        if(!player[seasonYear].hasOwnProperty(playerOfMatch))
+         {
+           player[seasonYear][playerOfMatch] = 0;
+         }
+        player[seasonYear][playerOfMatch]++;   
+     }
 
 
+     let highestAwards = {};
+    for (let season in player) {
+        let players = player[season];
+        let maxCount = 0;
+        let topPlayers = [];
 
-
+        for (let p in players) {  
+            if (players[p] > maxCount) {
+                maxCount = players[p];
+                topPlayers = [p];
+            } else if (players[p] === maxCount) {
+                topPlayers.push(p);
+            }
+        }
+        highestAwards[season] = topPlayers;
+    }
+     return highestAwards;
+   }
+ console.log(highestPlayer(matchesData));

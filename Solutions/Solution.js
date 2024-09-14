@@ -153,62 +153,62 @@ const deliveriesData = require('../csvToJson/deliveries.json');
 //7)Find the strike rate of a batsman for each season
 //Strike Rate=(Total Balls Faced/Total Runs Scored​)×100  
 
-function strikeRate(matchData,deliveryData)
-{
-   let matchMapping = {};
-   let result = {};
+// function strikeRate(matchData,deliveryData)
+// {
+//    let matchMapping = {};
+//    let result = {};
    
-   for(let key in matchData){
-    let match = matchData[key];
-    let season = match["season"];
-    let matchId = match["id"];
-     matchMapping[matchId] = season;
-   }
+//    for(let key in matchData){
+//     let match = matchData[key];
+//     let season = match["season"];
+//     let matchId = match["id"];
+//      matchMapping[matchId] = season;
+//    }
 //    console.log(matchMapping);
 
-   for(let id in matchMapping) 
-   {
-    let matchYear = matchMapping[id];
+//    for(let id in matchMapping) 
+//    {
+//     let matchYear = matchMapping[id];
      
-     if(!result.hasOwnProperty(matchYear))
-     {
-        result[matchYear]={};
-     }
-}
+//      if(!result.hasOwnProperty(matchYear))
+//      {
+//         result[matchYear]={};
+//      }
+// }
 
-    for(let delivery in deliveryData){
-        let deliveryId = deliveryData[delivery]["match_id"];
-        let batsman = deliveryData[delivery]["batsman"];
-        let runs =deliveryData[delivery]["batsman_runs"];
-        let wide = deliveryData[delivery]["wide_runs"];
-        let noBall = deliveryData[delivery]["noball_runs"];
-        let year = matchMapping[deliveryId];
-        if(!result[year].hasOwnProperty(batsman)){
-            result[year][batsman] = {runs:0,balls:0};
-        }
-        result[year][batsman]["runs"] += runs;
-        if(wide === 0 || noBall=== 0){
-         result[year][batsman].balls += 1;
-    }
-}
+//     for(let delivery in deliveryData){
+//         let deliveryId = deliveryData[delivery]["match_id"];
+//         let batsman = deliveryData[delivery]["batsman"];
+//         let runs =deliveryData[delivery]["batsman_runs"];
+//         let wide = deliveryData[delivery]["wide_runs"];
+//         let noBall = deliveryData[delivery]["noball_runs"];
+//         let year = matchMapping[deliveryId];
+//         if(!result[year].hasOwnProperty(batsman)){
+//             result[year][batsman] = {runs:0,balls:0};
+//         }
+//         result[year][batsman]["runs"] += runs;
+//         if(wide === 0 || noBall=== 0){
+//          result[year][batsman].balls += 1;
+//     }
+// }
    
-   let batsmanStrikeRate = {};
-    for(let year in result)
-    {
+//    let batsmanStrikeRate = {};
+//     for(let year in result)
+//     {
        
-        batsmanStrikeRate[year] = {};
-           for(let batsman in result[year])
-           {
+//         batsmanStrikeRate[year] = {};
+//            for(let batsman in result[year])
+//            {
             
-             let runsAndBalls =  result[year][batsman];
-              let strikeRate = (runsAndBalls.runs / runsAndBalls.balls) * 100
-              batsmanStrikeRate[year][batsman] = parseFloat(strikeRate.toFixed(2)); 
-           }
+//              let runsAndBalls =  result[year][batsman];
+//               let strikeRate = (runsAndBalls.runs / runsAndBalls.balls) * 100
+//               batsmanStrikeRate[year][batsman] = parseFloat(strikeRate.toFixed(2)); 
+//            }
         
-}
-   return batsmanStrikeRate;
-}
-console.log(strikeRate(matchesData,deliveriesData));
+// }
+//    return batsmanStrikeRate;
+// }
+// console.log(strikeRate(matchesData,deliveriesData));
 
 //  output =>   result = {
 //                         2016: {
@@ -219,5 +219,60 @@ console.log(strikeRate(matchesData,deliveriesData));
 
 
 
+//8)Find the highest number of times one player has been dismissed by another player
+    //output {bowler , batsman , number of dismiss}   
+     function highestDismissal(deliveriesData)
+     {
+        let dismissalData = {};
+        for(let key in deliveriesData)
+        {
+            let delivery = deliveriesData[key];
+            let bowler =  delivery["bowler"];
+            let batsman = delivery["batsman"];
+            let dismissal = delivery["dismissal_kind"];
+            
+            if(!dismissalData.hasOwnProperty(batsman))
+            {
+                dismissalData[batsman] = {}; 
+            }
+       
+            if(!dismissalData[batsman].hasOwnProperty(bowler))
+                {
+                    dismissalData[batsman][bowler] = 0;  
+                }
+                if(dismissal)
+                 {
+                    if(dismissal !== "run out")
+                    {
+                       dismissalData[batsman][bowler]++;  
+                    }
+                }
+        } 
+         
+        let result = {};
+        for (let batsman in dismissalData) {
+            let bowlers = dismissalData[batsman];
+            let highestBowler = null;
+            let highestCount = 0;
+        
+            for (let bowler in bowlers) {
+                let count = bowlers[bowler];
+                if (count > highestCount) {
+                    highestCount = count;
+                    highestBowler = bowler;
+                }
+            }
+            if(highestBowler !== null && highestCount !==0){
+            result[batsman] = { bowler: highestBowler, count: highestCount };
+            }
+        }
+        return result;
+    }
+   console.log(highestDismissal(deliveriesData));
 
+    // output =>  batsman : {
+    //                          //bowler
+    //                          //noOfTimesDismsiss
+    //                      }
 
+   // 4)Top 10 economical bowlers in the year 2015

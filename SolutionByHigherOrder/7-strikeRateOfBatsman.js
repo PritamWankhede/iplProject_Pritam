@@ -1,5 +1,4 @@
-const matchesData = require('../csvToJson/matches.json');
-const deliveryData = require('../csvToJson/deliveries.json');
+
 
  //7)Find the strike rate of a batsman for each season
  // Strike Rate=(Total Balls Faced/Total Runs Scored​)×100  

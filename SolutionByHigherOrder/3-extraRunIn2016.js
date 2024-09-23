@@ -1,5 +1,4 @@
-const matchesData = require('../csvToJson/matches.json');
-const deliveryData = require('../csvToJson/deliveries.json'); 
+
  
  //3)Extra runs conceded per team in the year 2016
      function ExtraRunByTeam(matchesData,deliveryData){
@@ -38,7 +37,7 @@ const deliveryData = require('../csvToJson/deliveries.json');
      },{});
      return teamConcededExtraRun;
      }
-     console.log(ExtraRunByTeam(matchesData,deliveryData));
-     
+    //  console.log(ExtraRunByTeam(matchesData,deliveryData));
+    module.exports = ExtraRunByTeam; 
      
      

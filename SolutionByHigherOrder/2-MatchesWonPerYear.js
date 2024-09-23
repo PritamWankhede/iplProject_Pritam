@@ -22,4 +22,5 @@ const deliveryData = require('../csvToJson/deliveries.json');
         },{});
         return wonMatches;
      }
-     console.log(matchWonPerYear(matchesData));
+    //  console.log(matchWonPerYear(matchesData));
+    module.exports = matchWonPerYear; 

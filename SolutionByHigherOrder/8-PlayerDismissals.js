@@ -1,5 +1,4 @@
-const matchesData = require('../csvToJson/matches.json');
-const deliveryData = require('../csvToJson/deliveries.json');
+
  //8)Find the highest number of times one player has been dismissed by another player
 
 function PlayerDismissals(deliveryData){
@@ -38,4 +37,5 @@ for (const batsman in dismissalData) {
 }
   return result;
 }
-console.log(PlayerDismissals(deliveryData));
+// console.log(PlayerDismissals(deliveryData));
+module.exports = PlayerDismissals;

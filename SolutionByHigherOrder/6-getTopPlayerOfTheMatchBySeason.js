@@ -26,4 +26,5 @@ const deliveryData = require('../csvToJson/deliveries.json');
 
        return playerPerSeason;
     }
-    console.log(getTopPlayerOfTheMatchBySeason(matchesData));
+  //  console.log(getTopPlayerOfTheMatchBySeason(matchesData));
+  module.exports = getTopPlayerOfTheMatchBySeason;

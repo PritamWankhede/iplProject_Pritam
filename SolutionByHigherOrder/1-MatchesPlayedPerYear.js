@@ -1,5 +1,4 @@
-const matchesData = require('../csvToJson/matches.json');
-const deliveryData = require('../csvToJson/deliveries.json');
+
 
 // 1)Number of matches played per year for all the years in IPL.
      function matchesPlayed(matchesData)
@@ -17,4 +16,5 @@ const deliveryData = require('../csvToJson/deliveries.json');
         },{});
         return NumOfMatches;
      }
-     console.log(matchesPlayed(matchesData));
+    //  console.log(matchesPlayed(matchesData));
+    module.exports = matchesPlayed; 

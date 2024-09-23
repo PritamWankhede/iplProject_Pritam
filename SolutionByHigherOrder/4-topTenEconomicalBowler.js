@@ -1,5 +1,4 @@
-const matchesData = require('../csvToJson/matches.json');
-const deliveryData = require('../csvToJson/deliveries.json'); 
+
 
 // 4)Top 10 economical bowlers in the year 2015
 //    Economy Rate=Total_run/Total_ball
@@ -59,4 +58,5 @@ const deliveryData = require('../csvToJson/deliveries.json');
 
         return (top10Bowler.slice(0,10));
     }
-    console.log(topTenEconomicalBowler(matchesData,deliveryData,2015));
+   // console.log(topTenEconomicalBowler(matchesData,deliveryData,2015));
+   module.exports = topTenEconomicalBowler; 

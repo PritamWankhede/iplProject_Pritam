@@ -22,4 +22,5 @@ const deliveryData = require('../csvToJson/deliveries.json');
       },{});
       return teams;
    }
-  console.log(teamWonTossAndMatch(matchesData))
+  //console.log(teamWonTossAndMatch(matchesData))
+  module.exports = teamWonTossAndMatch;

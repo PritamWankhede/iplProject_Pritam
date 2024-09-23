@@ -1,0 +1,4615 @@
+{
+  "2008": {
+    "SC Ganguly": {
+      "StrikeRate": "107.72"
+    },
+    "BB McCullum": {
+      "StrikeRate": "195.83"
+    },
+    "RT Ponting": {
+      "StrikeRate": "73.58"
+    },
+    "DJ Hussey": {
+      "StrikeRate": "119.48"
+    },
+    "Mohammad Hafeez": {
+      "StrikeRate": "76.19"
+    },
+    "R Dravid": {
+      "StrikeRate": "124.08"
+    },
+    "W Jaffer": {
+      "StrikeRate": "104.55"
+    },
+    "V Kohli": {
+      "StrikeRate": "98.21"
+    },
+    "JH Kallis": {
+      "StrikeRate": "105.85"
+    },
+    "CL White": {
+      "StrikeRate": "108.57"
+    },
+    "MV Boucher": {
+      "StrikeRate": "124.31"
+    },
+    "B Akhil": {
+      "StrikeRate": "143.75"
+    },
+    "AA Noffke": {
+      "StrikeRate": "75.00"
+    },
+    "P Kumar": {
+      "StrikeRate": "112.00"
+    },
+    "Z Khan": {
+      "StrikeRate": "79.07"
+    },
+    "SB Joshi": {
+      "StrikeRate": "37.50"
+    },
+    "PA Patel": {
+      "StrikeRate": "95.87"
+    },
+    "ML Hayden": {
+      "StrikeRate": "140.00"
+    },
+    "MEK Hussey": {
+      "StrikeRate": "168.00"
+    },
+    "MS Dhoni": {
+      "StrikeRate": "129.78"
+    },
+    "SK Raina": {
+      "StrikeRate": "138.49"
+    },
+    "JDP Oram": {
+      "StrikeRate": "138.46"
+    },
+    "S Badrinath": {
+      "StrikeRate": "139.13"
+    },
+    "K Goel": {
+      "StrikeRate": "96.20"
+    },
+    "JR Hopes": {
+      "StrikeRate": "145.39"
+    },
+    "KC Sangakkara": {
+      "StrikeRate": "154.59"
+    },
+    "Yuvraj Singh": {
+      "StrikeRate": "156.54"
+    },
+    "SM Katich": {
+      "StrikeRate": "133.33"
+    },
+    "IK Pathan": {
+      "StrikeRate": "109.17"
+    },
+    "T Kohli": {
+      "StrikeRate": "62.50"
+    },
+    "YK Pathan": {
+      "StrikeRate": "171.94"
+    },
+    "SR Watson": {
+      "StrikeRate": "146.58"
+    },
+    "M Kaif": {
+      "StrikeRate": "100.00"
+    },
+    "DS Lehmann": {
+      "StrikeRate": "94.74"
+    },
+    "RA Jadeja": {
+      "StrikeRate": "125.00"
+    },
+    "M Rawat": {
+      "StrikeRate": "87.18"
+    },
+    "D Salunkhe": {
+      "StrikeRate": "137.50"
+    },
+    "SK Warne": {
+      "StrikeRate": "116.67"
+    },
+    "SK Trivedi": {
+      "StrikeRate": "41.67"
+    },
+    "G Gambhir": {
+      "StrikeRate": "135.53"
+    },
+    "V Sehwag": {
+      "StrikeRate": "177.29"
+    },
+    "S Dhawan": {
+      "StrikeRate": "110.39"
+    },
+    "L Ronchi": {
+      "StrikeRate": "100.00"
+    },
+    "ST Jayasuriya": {
+      "StrikeRate": "154.35"
+    },
+    "DJ Thornely": {
+      "StrikeRate": "72.22"
+    },
+    "RV Uthappa": {
+      "StrikeRate": "109.97"
+    },
+    "PR Shah": {
+      "StrikeRate": "89.47"
+    },
+    "AM Nayar": {
+      "StrikeRate": "145.07"
+    },
+    "SM Pollock": {
+      "StrikeRate": "126.72"
+    },
+    "Harbhajan Singh": {
+      "StrikeRate": "176.47"
+    },
+    "S Chanderpaul": {
+      "StrikeRate": "75.76"
+    },
+    "LRPL Taylor": {
+      "StrikeRate": "175.29"
+    },
+    "AC Gilchrist": {
+      "StrikeRate": "132.93"
+    },
+    "Y Venugopal Rao": {
+      "StrikeRate": "132.72"
+    },
+    "VVS Laxman": {
+      "StrikeRate": "115.67"
+    },
+    "A Symonds": {
+      "StrikeRate": "145.05"
+    },
+    "RG Sharma": {
+      "StrikeRate": "146.38"
+    },
+    "SB Styris": {
+      "StrikeRate": "90.32"
+    },
+    "AS Yadav": {
+      "StrikeRate": "122.50"
+    },
+    "SB Bangar": {
+      "StrikeRate": "95.92"
+    },
+    "WPUJC Vaas": {
+      "StrikeRate": "116.67"
+    },
+    "RP Singh": {
+      "StrikeRate": "108.00"
+    },
+    "WP Saha": {
+      "StrikeRate": "133.61"
+    },
+    "LR Shukla": {
+      "StrikeRate": "128.35"
+    },
+    "DPMD Jayawardene": {
+      "StrikeRate": "129.71"
+    },
+    "S Sohal": {
+      "StrikeRate": "50.00"
+    },
+    "B Lee": {
+      "StrikeRate": "121.43"
+    },
+    "PP Chawla": {
+      "StrikeRate": "147.54"
+    },
+    "WA Mota": {
+      "StrikeRate": "92.86"
+    },
+    "Kamran Akmal": {
+      "StrikeRate": "164.10"
+    },
+    "Shahid Afridi": {
+      "StrikeRate": "176.09"
+    },
+    "DJ Bravo": {
+      "StrikeRate": "129.93"
+    },
+    "MA Khote": {
+      "StrikeRate": "109.09"
+    },
+    "A Nehra": {
+      "StrikeRate": "23.08"
+    },
+    "GC Smith": {
+      "StrikeRate": "117.60"
+    },
+    "Pankaj Singh": {
+      "StrikeRate": "62.50"
+    },
+    "RR Sarwan": {
+      "StrikeRate": "93.59"
+    },
+    "S Sreesanth": {
+      "StrikeRate": "0.00"
+    },
+    "VRV Singh": {
+      "StrikeRate": "133.33"
+    },
+    "SS Tiwary": {
+      "StrikeRate": "130.00"
+    },
+    "DS Kulkarni": {
+      "StrikeRate": "11.76"
+    },
+    "R Vinay Kumar": {
+      "StrikeRate": "89.29"
+    },
+    "AB Agarkar": {
+      "StrikeRate": "110.20"
+    },
+    "M Kartik": {
+      "StrikeRate": "107.14"
+    },
+    "I Sharma": {
+      "StrikeRate": "100.00"
+    },
+    "AM Rahane": {
+      "StrikeRate": "21.05"
+    },
+    "Shoaib Malik": {
+      "StrikeRate": "106.12"
+    },
+    "MK Tiwary": {
+      "StrikeRate": "119.54"
+    },
+    "KD Karthik": {
+      "StrikeRate": "134.26"
+    },
+    "R Bhatia": {
+      "StrikeRate": "121.43"
+    },
+    "MF Maharoof": {
+      "StrikeRate": "158.23"
+    },
+    "VY Mahesh": {
+      "StrikeRate": "53.57"
+    },
+    "TM Srivastava": {
+      "StrikeRate": "80.00"
+    },
+    "B Chipli": {
+      "StrikeRate": "66.67"
+    },
+    "DW Steyn": {
+      "StrikeRate": "40.00"
+    },
+    "DB Das": {
+      "StrikeRate": "108.42"
+    },
+    "MK Pandey": {
+      "StrikeRate": "30.00"
+    },
+    "HH Gibbs": {
+      "StrikeRate": "105.03"
+    },
+    "DNT Zoysa": {
+      "StrikeRate": "122.22"
+    },
+    "D Kalyankrishna": {
+      "StrikeRate": "37.50"
+    },
+    "SE Marsh": {
+      "StrikeRate": "136.28"
+    },
+    "SA Asnodkar": {
+      "StrikeRate": "129.05"
+    },
+    "Sohail Tanvir": {
+      "StrikeRate": "116.13"
+    },
+    "Salman Butt": {
+      "StrikeRate": "112.21"
+    },
+    "BJ Hodge": {
+      "StrikeRate": "66.67"
+    },
+    "Umar Gul": {
+      "StrikeRate": "205.26"
+    },
+    "AB Dinda": {
+      "StrikeRate": "50.00"
+    },
+    "SP Fleming": {
+      "StrikeRate": "114.62"
+    },
+    "S Vidyut": {
+      "StrikeRate": "126.09"
+    },
+    "JA Morkel": {
+      "StrikeRate": "143.45"
+    },
+    "AB de Villiers": {
+      "StrikeRate": "95.00"
+    },
+    "LPC Silva": {
+      "StrikeRate": "148.15"
+    },
+    "DB Ravi Teja": {
+      "StrikeRate": "128.24"
+    },
+    "Misbah-ul-Haq": {
+      "StrikeRate": "142.68"
+    },
+    "YV Takawale": {
+      "StrikeRate": "101.45"
+    },
+    "RR Raje": {
+      "StrikeRate": "88.89"
+    },
+    "PJ Sangwan": {
+      "StrikeRate": "40.00"
+    },
+    "Mohammad Asif": {
+      "StrikeRate": "50.00"
+    },
+    "GD McGrath": {
+      "StrikeRate": "80.00"
+    },
+    "Joginder Sharma": {
+      "StrikeRate": "145.45"
+    },
+    "MS Gony": {
+      "StrikeRate": "140.00"
+    },
+    "M Muralitharan": {
+      "StrikeRate": "0.00"
+    },
+    "M Ntini": {
+      "StrikeRate": "57.89"
+    },
+    "DT Patil": {
+      "StrikeRate": "100.00"
+    },
+    "A Kumble": {
+      "StrikeRate": "76.47"
+    },
+    "S Anirudha": {
+      "StrikeRate": "12.50"
+    },
+    "MM Patel": {
+      "StrikeRate": "0.00"
+    },
+    "CK Kapugedera": {
+      "StrikeRate": "66.67"
+    },
+    "A Chopra": {
+      "StrikeRate": "76.36"
+    },
+    "T Taibu": {
+      "StrikeRate": "119.23"
+    },
+    "J Arunkumar": {
+      "StrikeRate": "95.83"
+    },
+    "PP Ojha": {
+      "StrikeRate": "50.00"
+    },
+    "SP Goswami": {
+      "StrikeRate": "95.35"
+    },
+    "SR Tendulkar": {
+      "StrikeRate": "99.47"
+    },
+    "U Kaul": {
+      "StrikeRate": "0.00"
+    },
+    "TM Dilshan": {
+      "StrikeRate": "131.65"
+    },
+    "A Mishra": {
+      "StrikeRate": "88.10"
+    },
+    "AD Mascarenhas": {
+      "StrikeRate": "112.50"
+    },
+    "Niraj Patel": {
+      "StrikeRate": "124.10"
+    },
+    "LA Pomersbach": {
+      "StrikeRate": "150.50"
+    },
+    "Iqbal Abdulla": {
+      "StrikeRate": "50.00"
+    },
+    "Younis Khan": {
+      "StrikeRate": "42.86"
+    },
+    "PM Sarvesh Kumar": {
+      "StrikeRate": "50.00"
+    },
+    "DP Vijaykumar": {
+      "StrikeRate": "100.00"
+    },
+    "Shoaib Akhtar": {
+      "StrikeRate": "25.00"
+    },
+    "Abdur Razzak": {
+      "StrikeRate": "0.00"
+    },
+    "H Das": {
+      "StrikeRate": "40.00"
+    },
+    "DR Smith": {
+      "StrikeRate": "109.76"
+    },
+    "SD Chitnis": {
+      "StrikeRate": "180.00"
+    },
+    "CRD Fernando": {
+      "StrikeRate": "200.00"
+    },
+    "VS Yeligati": {
+      "StrikeRate": "100.00"
+    },
+    "L Balaji": {
+      "StrikeRate": "0.00"
+    },
+    "A Mukund": {
+      "StrikeRate": "0.00"
+    },
+    "RR Powar": {
+      "StrikeRate": "133.33"
+    }
+  },
+  "2009": {
+    "ST Jayasuriya": {
+      "StrikeRate": "107.80"
+    },
+    "SR Tendulkar": {
+      "StrikeRate": "115.56"
+    },
+    "S Dhawan": {
+      "StrikeRate": "86.96"
+    },
+    "JP Duminy": {
+      "StrikeRate": "111.38"
+    },
+    "DJ Bravo": {
+      "StrikeRate": "103.32"
+    },
+    "AM Nayar": {
+      "StrikeRate": "124.52"
+    },
+    "Harbhajan Singh": {
+      "StrikeRate": "147.37"
+    },
+    "Z Khan": {
+      "StrikeRate": "72.73"
+    },
+    "PA Patel": {
+      "StrikeRate": "108.40"
+    },
+    "SK Raina": {
+      "StrikeRate": "136.48"
+    },
+    "ML Hayden": {
+      "StrikeRate": "139.85"
+    },
+    "A Flintoff": {
+      "StrikeRate": "108.77"
+    },
+    "MS Dhoni": {
+      "StrikeRate": "122.96"
+    },
+    "JDP Oram": {
+      "StrikeRate": "93.62"
+    },
+    "S Badrinath": {
+      "StrikeRate": "106.63"
+    },
+    "Joginder Sharma": {
+      "StrikeRate": "111.11"
+    },
+    "T Thushara": {
+      "StrikeRate": "25.00"
+    },
+    "JD Ryder": {
+      "StrikeRate": "114.29"
+    },
+    "LRPL Taylor": {
+      "StrikeRate": "132.70"
+    },
+    "KP Pietersen": {
+      "StrikeRate": "104.49"
+    },
+    "RV Uthappa": {
+      "StrikeRate": "98.87"
+    },
+    "R Dravid": {
+      "StrikeRate": "113.39"
+    },
+    "V Kohli": {
+      "StrikeRate": "109.33"
+    },
+    "B Akhil": {
+      "StrikeRate": "106.25"
+    },
+    "P Kumar": {
+      "StrikeRate": "141.30"
+    },
+    "R Vinay Kumar": {
+      "StrikeRate": "106.82"
+    },
+    "GC Smith": {
+      "StrikeRate": "95.50"
+    },
+    "SA Asnodkar": {
+      "StrikeRate": "100.00"
+    },
+    "Niraj Patel": {
+      "StrikeRate": "43.90"
+    },
+    "T Henderson": {
+      "StrikeRate": "68.75"
+    },
+    "YK Pathan": {
+      "StrikeRate": "135.94"
+    },
+    "AD Mascarenhas": {
+      "StrikeRate": "100.00"
+    },
+    "RA Jadeja": {
+      "StrikeRate": "106.88"
+    },
+    "SK Warne": {
+      "StrikeRate": "91.53"
+    },
+    "M Rawat": {
+      "StrikeRate": "80.00"
+    },
+    "MM Patel": {
+      "StrikeRate": "126.92"
+    },
+    "Kamran Khan": {
+      "StrikeRate": "60.00"
+    },
+    "RS Bopara": {
+      "StrikeRate": "111.29"
+    },
+    "K Goel": {
+      "StrikeRate": "88.57"
+    },
+    "KC Sangakkara": {
+      "StrikeRate": "100.00"
+    },
+    "Yuvraj Singh": {
+      "StrikeRate": "107.26"
+    },
+    "DPMD Jayawardene": {
+      "StrikeRate": "127.33"
+    },
+    "IK Pathan": {
+      "StrikeRate": "119.51"
+    },
+    "G Gambhir": {
+      "StrikeRate": "101.06"
+    },
+    "V Sehwag": {
+      "StrikeRate": "135.62"
+    },
+    "BB McCullum": {
+      "StrikeRate": "115.32"
+    },
+    "CH Gayle": {
+      "StrikeRate": "115.72"
+    },
+    "SC Ganguly": {
+      "StrikeRate": "88.73"
+    },
+    "BJ Hodge": {
+      "StrikeRate": "115.14"
+    },
+    "A Chopra": {
+      "StrikeRate": "55.00"
+    },
+    "LR Shukla": {
+      "StrikeRate": "96.51"
+    },
+    "MC Henriques": {
+      "StrikeRate": "95.00"
+    },
+    "AB Agarkar": {
+      "StrikeRate": "113.79"
+    },
+    "M Kartik": {
+      "StrikeRate": "105.00"
+    },
+    "I Sharma": {
+      "StrikeRate": "123.08"
+    },
+    "AB Dinda": {
+      "StrikeRate": "66.67"
+    },
+    "AC Gilchrist": {
+      "StrikeRate": "146.88"
+    },
+    "HH Gibbs": {
+      "StrikeRate": "107.85"
+    },
+    "VVS Laxman": {
+      "StrikeRate": "57.58"
+    },
+    "RG Sharma": {
+      "StrikeRate": "112.07"
+    },
+    "JA Morkel": {
+      "StrikeRate": "132.88"
+    },
+    "JH Kallis": {
+      "StrikeRate": "103.44"
+    },
+    "R Bishnoi": {
+      "StrikeRate": "111.76"
+    },
+    "DW Steyn": {
+      "StrikeRate": "0.00"
+    },
+    "A Kumble": {
+      "StrikeRate": "80.00"
+    },
+    "T Kohli": {
+      "StrikeRate": "25.00"
+    },
+    "PP Chawla": {
+      "StrikeRate": "79.49"
+    },
+    "SB Styris": {
+      "StrikeRate": "175.00"
+    },
+    "Y Venugopal Rao": {
+      "StrikeRate": "105.08"
+    },
+    "DB Ravi Teja": {
+      "StrikeRate": "91.55"
+    },
+    "FH Edwards": {
+      "StrikeRate": "80.00"
+    },
+    "KV Sharma": {
+      "StrikeRate": "33.33"
+    },
+    "AB de Villiers": {
+      "StrikeRate": "129.53"
+    },
+    "TM Dilshan": {
+      "StrikeRate": "117.09"
+    },
+    "KD Karthik": {
+      "StrikeRate": "128.57"
+    },
+    "MK Tiwary": {
+      "StrikeRate": "69.23"
+    },
+    "MS Gony": {
+      "StrikeRate": "185.71"
+    },
+    "M Muralitharan": {
+      "StrikeRate": "100.00"
+    },
+    "PC Valthaty": {
+      "StrikeRate": "50.00"
+    },
+    "RJ Quiney": {
+      "StrikeRate": "98.10"
+    },
+    "AS Raut": {
+      "StrikeRate": "120.00"
+    },
+    "SB Bangar": {
+      "StrikeRate": "22.22"
+    },
+    "Yashpal Singh": {
+      "StrikeRate": "70.15"
+    },
+    "Pankaj Singh": {
+      "StrikeRate": "50.00"
+    },
+    "DR Smith": {
+      "StrikeRate": "160.45"
+    },
+    "RP Singh": {
+      "StrikeRate": "47.06"
+    },
+    "PP Ojha": {
+      "StrikeRate": "14.29"
+    },
+    "PR Shah": {
+      "StrikeRate": "98.15"
+    },
+    "MV Boucher": {
+      "StrikeRate": "123.97"
+    },
+    "M Manhas": {
+      "StrikeRate": "115.38"
+    },
+    "WA Mota": {
+      "StrikeRate": "62.50"
+    },
+    "AA Bilakhia": {
+      "StrikeRate": "79.76"
+    },
+    "SS Tiwary": {
+      "StrikeRate": "108.33"
+    },
+    "AN Ghosh": {
+      "StrikeRate": "87.50"
+    },
+    "BAW Mendis": {
+      "StrikeRate": "0.00"
+    },
+    "DL Vettori": {
+      "StrikeRate": "106.25"
+    },
+    "A Mishra": {
+      "StrikeRate": "130.00"
+    },
+    "PJ Sangwan": {
+      "StrikeRate": "60.00"
+    },
+    "MN van Wyk": {
+      "StrikeRate": "123.70"
+    },
+    "WP Saha": {
+      "StrikeRate": "175.61"
+    },
+    "SP Goswami": {
+      "StrikeRate": "82.81"
+    },
+    "RE van der Merwe": {
+      "StrikeRate": "120.79"
+    },
+    "MK Pandey": {
+      "StrikeRate": "140.00"
+    },
+    "RR Powar": {
+      "StrikeRate": "104.55"
+    },
+    "TL Suman": {
+      "StrikeRate": "122.80"
+    },
+    "Shoaib Ahmed": {
+      "StrikeRate": "16.67"
+    },
+    "SK Trivedi": {
+      "StrikeRate": "47.37"
+    },
+    "GR Napier": {
+      "StrikeRate": "93.75"
+    },
+    "AM Rahane": {
+      "StrikeRate": "112.50"
+    },
+    "KP Appanna": {
+      "StrikeRate": "0.00"
+    },
+    "SM Katich": {
+      "StrikeRate": "121.85"
+    },
+    "TM Srivastava": {
+      "StrikeRate": "0.00"
+    },
+    "LA Carseldine": {
+      "StrikeRate": "114.08"
+    },
+    "NV Ojha": {
+      "StrikeRate": "115.86"
+    },
+    "SM Harwood": {
+      "StrikeRate": "64.29"
+    },
+    "M Vijay": {
+      "StrikeRate": "86.96"
+    },
+    "SB Jakati": {
+      "StrikeRate": "125.00"
+    },
+    "L Balaji": {
+      "StrikeRate": "40.00"
+    },
+    "DA Warner": {
+      "StrikeRate": "118.98"
+    },
+    "R Bhatia": {
+      "StrikeRate": "44.44"
+    },
+    "S Sohal": {
+      "StrikeRate": "112.75"
+    },
+    "W Jaffer": {
+      "StrikeRate": "78.95"
+    },
+    "RJ Harris": {
+      "StrikeRate": "116.67"
+    },
+    "S Sreesanth": {
+      "StrikeRate": "26.32"
+    },
+    "RR Raje": {
+      "StrikeRate": "133.33"
+    },
+    "DS Kulkarni": {
+      "StrikeRate": "50.00"
+    },
+    "D du Preez": {
+      "StrikeRate": "76.92"
+    },
+    "L Ronchi": {
+      "StrikeRate": "0.00"
+    },
+    "A Symonds": {
+      "StrikeRate": "145.61"
+    },
+    "B Lee": {
+      "StrikeRate": "80.00"
+    },
+    "WPUJC Vaas": {
+      "StrikeRate": "142.86"
+    },
+    "M Morkel": {
+      "StrikeRate": "88.89"
+    },
+    "DJ Hussey": {
+      "StrikeRate": "160.66"
+    },
+    "AD Mathews": {
+      "StrikeRate": "114.29"
+    },
+    "LA Pomersbach": {
+      "StrikeRate": "83.67"
+    },
+    "SD Chitnis": {
+      "StrikeRate": "66.67"
+    },
+    "J Botha": {
+      "StrikeRate": "111.90"
+    },
+    "YV Takawale": {
+      "StrikeRate": "81.82"
+    },
+    "C Nanda": {
+      "StrikeRate": "0.00"
+    },
+    "SL Malinga": {
+      "StrikeRate": "0.00"
+    },
+    "MF Maharoof": {
+      "StrikeRate": "100.00"
+    },
+    "A Nehra": {
+      "StrikeRate": "100.00"
+    },
+    "Mashrafe Mortaza": {
+      "StrikeRate": "100.00"
+    },
+    "A Singh": {
+      "StrikeRate": "33.33"
+    },
+    "GJ Bailey": {
+      "StrikeRate": "112.50"
+    },
+    "AB McDonald": {
+      "StrikeRate": "75.00"
+    },
+    "Y Nagar": {
+      "StrikeRate": "90.91"
+    },
+    "SS Shaikh": {
+      "StrikeRate": "85.71"
+    },
+    "R Ashwin": {
+      "StrikeRate": "53.33"
+    },
+    "Mohammad Ashraful": {
+      "StrikeRate": "16.67"
+    }
+  },
+  "2010": {
+    "MK Tiwary": {
+      "StrikeRate": "123.44"
+    },
+    "SC Ganguly": {
+      "StrikeRate": "112.05"
+    },
+    "CA Pujara": {
+      "StrikeRate": "102.52"
+    },
+    "BJ Hodge": {
+      "StrikeRate": "104.21"
+    },
+    "OA Shah": {
+      "StrikeRate": "119.79"
+    },
+    "AD Mathews": {
+      "StrikeRate": "118.27"
+    },
+    "AC Gilchrist": {
+      "StrikeRate": "144.50"
+    },
+    "VVS Laxman": {
+      "StrikeRate": "103.23"
+    },
+    "HH Gibbs": {
+      "StrikeRate": "109.88"
+    },
+    "A Symonds": {
+      "StrikeRate": "120.51"
+    },
+    "RG Sharma": {
+      "StrikeRate": "130.32"
+    },
+    "Anirudh Singh": {
+      "StrikeRate": "91.30"
+    },
+    "TL Suman": {
+      "StrikeRate": "116.29"
+    },
+    "WPUJC Vaas": {
+      "StrikeRate": "88.24"
+    },
+    "Jaskaran Singh": {
+      "StrikeRate": "72.73"
+    },
+    "ST Jayasuriya": {
+      "StrikeRate": "94.29"
+    },
+    "SR Tendulkar": {
+      "StrikeRate": "126.38"
+    },
+    "AP Tare": {
+      "StrikeRate": "121.95"
+    },
+    "SS Tiwary": {
+      "StrikeRate": "131.35"
+    },
+    "AT Rayudu": {
+      "StrikeRate": "137.98"
+    },
+    "R Sathish": {
+      "StrikeRate": "114.29"
+    },
+    "Harbhajan Singh": {
+      "StrikeRate": "164.06"
+    },
+    "R McLaren": {
+      "StrikeRate": "92.96"
+    },
+    "GC Smith": {
+      "StrikeRate": "110.00"
+    },
+    "NV Ojha": {
+      "StrikeRate": "128.23"
+    },
+    "AA Jhunjhunwala": {
+      "StrikeRate": "106.40"
+    },
+    "YK Pathan": {
+      "StrikeRate": "158.57"
+    },
+    "P Dogra": {
+      "StrikeRate": "99.07"
+    },
+    "AD Mascarenhas": {
+      "StrikeRate": "109.09"
+    },
+    "A Uniyal": {
+      "StrikeRate": "57.14"
+    },
+    "SK Warne": {
+      "StrikeRate": "47.62"
+    },
+    "RS Bopara": {
+      "StrikeRate": "111.21"
+    },
+    "MS Bisla": {
+      "StrikeRate": "115.34"
+    },
+    "KC Sangakkara": {
+      "StrikeRate": "137.31"
+    },
+    "Yuvraj Singh": {
+      "StrikeRate": "125.73"
+    },
+    "DPMD Jayawardene": {
+      "StrikeRate": "142.63"
+    },
+    "IK Pathan": {
+      "StrikeRate": "146.81"
+    },
+    "M Kaif": {
+      "StrikeRate": "90.32"
+    },
+    "PP Chawla": {
+      "StrikeRate": "98.41"
+    },
+    "RR Powar": {
+      "StrikeRate": "62.50"
+    },
+    "S Sreesanth": {
+      "StrikeRate": "122.73"
+    },
+    "YA Abdulla": {
+      "StrikeRate": "0.00"
+    },
+    "G Gambhir": {
+      "StrikeRate": "124.22"
+    },
+    "V Sehwag": {
+      "StrikeRate": "156.83"
+    },
+    "TM Dilshan": {
+      "StrikeRate": "80.00"
+    },
+    "AB de Villiers": {
+      "StrikeRate": "90.24"
+    },
+    "KD Karthik": {
+      "StrikeRate": "114.88"
+    },
+    "M Manhas": {
+      "StrikeRate": "103.97"
+    },
+    "MF Maharoof": {
+      "StrikeRate": "129.17"
+    },
+    "JH Kallis": {
+      "StrikeRate": "110.64"
+    },
+    "SP Goswami": {
+      "StrikeRate": "80.00"
+    },
+    "MK Pandey": {
+      "StrikeRate": "106.87"
+    },
+    "V Kohli": {
+      "StrikeRate": "142.13"
+    },
+    "EJG Morgan": {
+      "StrikeRate": "112.90"
+    },
+    "R Dravid": {
+      "StrikeRate": "126.11"
+    },
+    "RV Uthappa": {
+      "StrikeRate": "166.96"
+    },
+    "RE van der Merwe": {
+      "StrikeRate": "50.00"
+    },
+    "P Kumar": {
+      "StrikeRate": "50.00"
+    },
+    "M Vijay": {
+      "StrikeRate": "150.16"
+    },
+    "ML Hayden": {
+      "StrikeRate": "117.29"
+    },
+    "SK Raina": {
+      "StrikeRate": "136.43"
+    },
+    "S Badrinath": {
+      "StrikeRate": "114.84"
+    },
+    "JM Kemp": {
+      "StrikeRate": "104.00"
+    },
+    "MS Dhoni": {
+      "StrikeRate": "133.49"
+    },
+    "JA Morkel": {
+      "StrikeRate": "147.41"
+    },
+    "R Ashwin": {
+      "StrikeRate": "75.00"
+    },
+    "L Balaji": {
+      "StrikeRate": "90.00"
+    },
+    "M Muralitharan": {
+      "StrikeRate": "50.00"
+    },
+    "S Tyagi": {
+      "StrikeRate": "75.00"
+    },
+    "SA Asnodkar": {
+      "StrikeRate": "125.00"
+    },
+    "WP Saha": {
+      "StrikeRate": "126.42"
+    },
+    "LR Shukla": {
+      "StrikeRate": "133.33"
+    },
+    "RS Gavaskar": {
+      "StrikeRate": "25.00"
+    },
+    "SE Bond": {
+      "StrikeRate": "50.00"
+    },
+    "M Kartik": {
+      "StrikeRate": "100.00"
+    },
+    "I Sharma": {
+      "StrikeRate": "35.29"
+    },
+    "KA Pollard": {
+      "StrikeRate": "179.61"
+    },
+    "DJ Bravo": {
+      "StrikeRate": "115.09"
+    },
+    "A Mishra": {
+      "StrikeRate": "72.22"
+    },
+    "PJ Sangwan": {
+      "StrikeRate": "66.67"
+    },
+    "S Ladda": {
+      "StrikeRate": "0.00"
+    },
+    "DP Nannes": {
+      "StrikeRate": "30.77"
+    },
+    "MJ Lumb": {
+      "StrikeRate": "141.84"
+    },
+    "DR Martyn": {
+      "StrikeRate": "73.08"
+    },
+    "S Narwal": {
+      "StrikeRate": "107.69"
+    },
+    "M Morkel": {
+      "StrikeRate": "56.25"
+    },
+    "MM Patel": {
+      "StrikeRate": "80.00"
+    },
+    "SK Trivedi": {
+      "StrikeRate": "133.33"
+    },
+    "DA Warner": {
+      "StrikeRate": "144.62"
+    },
+    "R Bhatia": {
+      "StrikeRate": "141.18"
+    },
+    "PA Patel": {
+      "StrikeRate": "86.75"
+    },
+    "RP Singh": {
+      "StrikeRate": "45.00"
+    },
+    "AB Barath": {
+      "StrikeRate": "97.67"
+    },
+    "Bipul Sharma": {
+      "StrikeRate": "128.57"
+    },
+    "FY Fazal": {
+      "StrikeRate": "102.50"
+    },
+    "AC Voges": {
+      "StrikeRate": "126.57"
+    },
+    "Z Khan": {
+      "StrikeRate": "184.62"
+    },
+    "MD Mishra": {
+      "StrikeRate": "111.41"
+    },
+    "Y Venugopal Rao": {
+      "StrikeRate": "77.27"
+    },
+    "MC Henriques": {
+      "StrikeRate": "220.00"
+    },
+    "Y Nagar": {
+      "StrikeRate": "14.29"
+    },
+    "UT Yadav": {
+      "StrikeRate": "75.00"
+    },
+    "J Theron": {
+      "StrikeRate": "33.33"
+    },
+    "MS Gony": {
+      "StrikeRate": "28.57"
+    },
+    "CH Gayle": {
+      "StrikeRate": "148.22"
+    },
+    "S Dhawan": {
+      "StrikeRate": "106.11"
+    },
+    "MV Boucher": {
+      "StrikeRate": "130.00"
+    },
+    "GJ Bailey": {
+      "StrikeRate": "66.67"
+    },
+    "SJ Srivastava": {
+      "StrikeRate": "50.00"
+    },
+    "R Sharma": {
+      "StrikeRate": "111.54"
+    },
+    "Mandeep Singh": {
+      "StrikeRate": "36.36"
+    },
+    "DJ Hussey": {
+      "StrikeRate": "105.62"
+    },
+    "K Goel": {
+      "StrikeRate": "90.00"
+    },
+    "B Lee": {
+      "StrikeRate": "100.00"
+    },
+    "KM Jadhav": {
+      "StrikeRate": "126.67"
+    },
+    "AB McDonald": {
+      "StrikeRate": "120.37"
+    },
+    "R Vinay Kumar": {
+      "StrikeRate": "77.14"
+    },
+    "DW Steyn": {
+      "StrikeRate": "76.47"
+    },
+    "A Kumble": {
+      "StrikeRate": "50.00"
+    },
+    "SW Tait": {
+      "StrikeRate": "92.31"
+    },
+    "KB Arun Karthik": {
+      "StrikeRate": "60.00"
+    },
+    "T Thushara": {
+      "StrikeRate": "90.91"
+    },
+    "KAJ Roach": {
+      "StrikeRate": "111.11"
+    },
+    "PD Collingwood": {
+      "StrikeRate": "127.67"
+    },
+    "AB Agarkar": {
+      "StrikeRate": "133.33"
+    },
+    "CK Langeveldt": {
+      "StrikeRate": "0.00"
+    },
+    "SE Marsh": {
+      "StrikeRate": "125.64"
+    },
+    "VS Malik": {
+      "StrikeRate": "120.00"
+    },
+    "KP Pietersen": {
+      "StrikeRate": "148.43"
+    },
+    "CL White": {
+      "StrikeRate": "145.45"
+    },
+    "SR Watson": {
+      "StrikeRate": "158.12"
+    },
+    "AS Raut": {
+      "StrikeRate": "116.67"
+    },
+    "RJ Harris": {
+      "StrikeRate": "115.38"
+    },
+    "PP Ojha": {
+      "StrikeRate": "37.50"
+    },
+    "DL Vettori": {
+      "StrikeRate": "117.86"
+    },
+    "LRPL Taylor": {
+      "StrikeRate": "114.29"
+    },
+    "A Mithun": {
+      "StrikeRate": "125.00"
+    },
+    "KP Appanna": {
+      "StrikeRate": "66.67"
+    },
+    "AP Dole": {
+      "StrikeRate": "147.83"
+    },
+    "DR Smith": {
+      "StrikeRate": "88.00"
+    },
+    "AA Bilakhia": {
+      "StrikeRate": "50.00"
+    },
+    "MEK Hussey": {
+      "StrikeRate": "84.09"
+    },
+    "AN Ahmed": {
+      "StrikeRate": "50.00"
+    },
+    "BB McCullum": {
+      "StrikeRate": "97.44"
+    },
+    "JP Duminy": {
+      "StrikeRate": "117.16"
+    },
+    "RS Sodhi": {
+      "StrikeRate": "200.00"
+    },
+    "DE Bollinger": {
+      "StrikeRate": "105.88"
+    },
+    "AB Dinda": {
+      "StrikeRate": "0.00"
+    },
+    "BAW Mendis": {
+      "StrikeRate": "100.00"
+    },
+    "S Sriram": {
+      "StrikeRate": "87.10"
+    },
+    "A Nehra": {
+      "StrikeRate": "115.00"
+    },
+    "B Sumanth": {
+      "StrikeRate": "92.11"
+    },
+    "C Madan": {
+      "StrikeRate": "71.43"
+    },
+    "Iqbal Abdulla": {
+      "StrikeRate": "0.00"
+    },
+    "AG Paunikar": {
+      "StrikeRate": "0.00"
+    },
+    "MR Marsh": {
+      "StrikeRate": "90.32"
+    },
+    "AM Nayar": {
+      "StrikeRate": "113.73"
+    },
+    "Pankaj Singh": {
+      "StrikeRate": "50.00"
+    },
+    "AJ Finch": {
+      "StrikeRate": "100.00"
+    },
+    "STR Binny": {
+      "StrikeRate": "160.00"
+    },
+    "S Anirudha": {
+      "StrikeRate": "157.89"
+    },
+    "Harmeet Singh": {
+      "StrikeRate": "0.00"
+    },
+    "CRD Fernando": {
+      "StrikeRate": "100.00"
+    },
+    "SL Malinga": {
+      "StrikeRate": "100.00"
+    }
+  },
+  "2011": {
+    "S Anirudha": {
+      "StrikeRate": "106.41"
+    },
+    "M Vijay": {
+      "StrikeRate": "124.36"
+    },
+    "SK Raina": {
+      "StrikeRate": "130.75"
+    },
+    "MS Dhoni": {
+      "StrikeRate": "158.70"
+    },
+    "JA Morkel": {
+      "StrikeRate": "127.78"
+    },
+    "SB Styris": {
+      "StrikeRate": "250.00"
+    },
+    "MS Bisla": {
+      "StrikeRate": "80.00"
+    },
+    "JH Kallis": {
+      "StrikeRate": "109.84"
+    },
+    "YK Pathan": {
+      "StrikeRate": "138.05"
+    },
+    "MK Tiwary": {
+      "StrikeRate": "106.85"
+    },
+    "EJG Morgan": {
+      "StrikeRate": "111.38"
+    },
+    "G Gambhir": {
+      "StrikeRate": "113.86"
+    },
+    "LR Shukla": {
+      "StrikeRate": "140.00"
+    },
+    "Iqbal Abdulla": {
+      "StrikeRate": "125.00"
+    },
+    "R Bhatia": {
+      "StrikeRate": "108.70"
+    },
+    "S Dhawan": {
+      "StrikeRate": "126.98"
+    },
+    "IR Jaggi": {
+      "StrikeRate": "73.68"
+    },
+    "KC Sangakkara": {
+      "StrikeRate": "120.13"
+    },
+    "B Chipli": {
+      "StrikeRate": "120.35"
+    },
+    "JP Duminy": {
+      "StrikeRate": "116.48"
+    },
+    "DT Christian": {
+      "StrikeRate": "118.01"
+    },
+    "DB Ravi Teja": {
+      "StrikeRate": "124.49"
+    },
+    "DW Steyn": {
+      "StrikeRate": "97.30"
+    },
+    "A Mishra": {
+      "StrikeRate": "130.77"
+    },
+    "I Sharma": {
+      "StrikeRate": "80.00"
+    },
+    "AG Paunikar": {
+      "StrikeRate": "81.67"
+    },
+    "R Dravid": {
+      "StrikeRate": "107.19"
+    },
+    "J Botha": {
+      "StrikeRate": "115.00"
+    },
+    "LRPL Taylor": {
+      "StrikeRate": "114.56"
+    },
+    "BB McCullum": {
+      "StrikeRate": "122.26"
+    },
+    "VVS Laxman": {
+      "StrikeRate": "104.76"
+    },
+    "DPMD Jayawardene": {
+      "StrikeRate": "109.93"
+    },
+    "BJ Hodge": {
+      "StrikeRate": "116.33"
+    },
+    "RA Jadeja": {
+      "StrikeRate": "120.94"
+    },
+    "RV Gomez": {
+      "StrikeRate": "88.46"
+    },
+    "PA Patel": {
+      "StrikeRate": "106.88"
+    },
+    "MA Agarwal": {
+      "StrikeRate": "109.30"
+    },
+    "TM Dilshan": {
+      "StrikeRate": "122.16"
+    },
+    "V Kohli": {
+      "StrikeRate": "117.76"
+    },
+    "AB de Villiers": {
+      "StrikeRate": "125.81"
+    },
+    "SS Tiwary": {
+      "StrikeRate": "95.41"
+    },
+    "AUK Pathan": {
+      "StrikeRate": "183.33"
+    },
+    "DA Warner": {
+      "StrikeRate": "115.30"
+    },
+    "V Sehwag": {
+      "StrikeRate": "171.66"
+    },
+    "UBT Chand": {
+      "StrikeRate": "16.67"
+    },
+    "AJ Finch": {
+      "StrikeRate": "92.16"
+    },
+    "NV Ojha": {
+      "StrikeRate": "94.67"
+    },
+    "Y Venugopal Rao": {
+      "StrikeRate": "115.07"
+    },
+    "IK Pathan": {
+      "StrikeRate": "102.74"
+    },
+    "RE van der Merwe": {
+      "StrikeRate": "87.50"
+    },
+    "M Morkel": {
+      "StrikeRate": "160.00"
+    },
+    "UT Yadav": {
+      "StrikeRate": "16.67"
+    },
+    "AB Dinda": {
+      "StrikeRate": "0.00"
+    },
+    "DJ Jacobs": {
+      "StrikeRate": "101.10"
+    },
+    "SR Tendulkar": {
+      "StrikeRate": "108.22"
+    },
+    "AT Rayudu": {
+      "StrikeRate": "111.27"
+    },
+    "RG Sharma": {
+      "StrikeRate": "122.37"
+    },
+    "AC Gilchrist": {
+      "StrikeRate": "123.95"
+    },
+    "SE Marsh": {
+      "StrikeRate": "144.41"
+    },
+    "PC Valthaty": {
+      "StrikeRate": "131.91"
+    },
+    "KD Karthik": {
+      "StrikeRate": "125.33"
+    },
+    "AM Nayar": {
+      "StrikeRate": "91.04"
+    },
+    "Sunny Singh": {
+      "StrikeRate": "138.71"
+    },
+    "R McLaren": {
+      "StrikeRate": "89.11"
+    },
+    "PP Chawla": {
+      "StrikeRate": "87.27"
+    },
+    "P Kumar": {
+      "StrikeRate": "81.82"
+    },
+    "NJ Rimmington": {
+      "StrikeRate": "100.00"
+    },
+    "GC Smith": {
+      "StrikeRate": "77.78"
+    },
+    "M Manhas": {
+      "StrikeRate": "89.06"
+    },
+    "JD Ryder": {
+      "StrikeRate": "145.27"
+    },
+    "RV Uthappa": {
+      "StrikeRate": "122.79"
+    },
+    "Yuvraj Singh": {
+      "StrikeRate": "127.51"
+    },
+    "AL Menaria": {
+      "StrikeRate": "113.92"
+    },
+    "AM Rahane": {
+      "StrikeRate": "121.21"
+    },
+    "S Badrinath": {
+      "StrikeRate": "123.75"
+    },
+    "R Vinay Kumar": {
+      "StrikeRate": "104.17"
+    },
+    "S Sreesanth": {
+      "StrikeRate": "11.11"
+    },
+    "RP Singh": {
+      "StrikeRate": "50.00"
+    },
+    "MD Mishra": {
+      "StrikeRate": "111.67"
+    },
+    "WD Parnell": {
+      "StrikeRate": "88.10"
+    },
+    "R Sharma": {
+      "StrikeRate": "104.35"
+    },
+    "S Sohal": {
+      "StrikeRate": "123.88"
+    },
+    "Z Khan": {
+      "StrikeRate": "87.50"
+    },
+    "CA Pujara": {
+      "StrikeRate": "106.25"
+    },
+    "JJ van der Wath": {
+      "StrikeRate": "105.88"
+    },
+    "R Ninan": {
+      "StrikeRate": "50.00"
+    },
+    "DL Vettori": {
+      "StrikeRate": "76.67"
+    },
+    "S Aravind": {
+      "StrikeRate": "130.00"
+    },
+    "SR Watson": {
+      "StrikeRate": "128.91"
+    },
+    "MEK Hussey": {
+      "StrikeRate": "116.31"
+    },
+    "MS Gony": {
+      "StrikeRate": "0.00"
+    },
+    "MS Wade": {
+      "StrikeRate": "66.67"
+    },
+    "JR Hopes": {
+      "StrikeRate": "120.99"
+    },
+    "FY Fazal": {
+      "StrikeRate": "100.00"
+    },
+    "AS Raut": {
+      "StrikeRate": "101.69"
+    },
+    "SK Warne": {
+      "StrikeRate": "50.00"
+    },
+    "A Singh": {
+      "StrikeRate": "25.00"
+    },
+    "SW Tait": {
+      "StrikeRate": "100.00"
+    },
+    "SK Trivedi": {
+      "StrikeRate": "0.00"
+    },
+    "CL White": {
+      "StrikeRate": "95.41"
+    },
+    "Y Nagar": {
+      "StrikeRate": "102.78"
+    },
+    "TD Paine": {
+      "StrikeRate": "34.48"
+    },
+    "M Kartik": {
+      "StrikeRate": "80.00"
+    },
+    "SB Wagh": {
+      "StrikeRate": "66.67"
+    },
+    "AC Thomas": {
+      "StrikeRate": "25.00"
+    },
+    "JEC Franklin": {
+      "StrikeRate": "133.75"
+    },
+    "A Symonds": {
+      "StrikeRate": "94.41"
+    },
+    "KM Jadhav": {
+      "StrikeRate": "78.26"
+    },
+    "RR Powar": {
+      "StrikeRate": "84.62"
+    },
+    "Shakib Al Hasan": {
+      "StrikeRate": "126.09"
+    },
+    "B Lee": {
+      "StrikeRate": "55.56"
+    },
+    "L Balaji": {
+      "StrikeRate": "200.00"
+    },
+    "SA Asnodkar": {
+      "StrikeRate": "100.00"
+    },
+    "STR Binny": {
+      "StrikeRate": "119.35"
+    },
+    "DH Yagnik": {
+      "StrikeRate": "69.57"
+    },
+    "R Sathish": {
+      "StrikeRate": "71.43"
+    },
+    "KA Pollard": {
+      "StrikeRate": "103.55"
+    },
+    "R Ashwin": {
+      "StrikeRate": "33.33"
+    },
+    "Joginder Sharma": {
+      "StrikeRate": "0.00"
+    },
+    "S Randiv": {
+      "StrikeRate": "50.00"
+    },
+    "DE Bollinger": {
+      "StrikeRate": "0.00"
+    },
+    "BJ Haddin": {
+      "StrikeRate": "163.64"
+    },
+    "CH Gayle": {
+      "StrikeRate": "177.78"
+    },
+    "DJ Hussey": {
+      "StrikeRate": "98.46"
+    },
+    "RJ Harris": {
+      "StrikeRate": "79.49"
+    },
+    "NLTC Perera": {
+      "StrikeRate": "79.31"
+    },
+    "M Muralitharan": {
+      "StrikeRate": "62.50"
+    },
+    "MK Pandey": {
+      "StrikeRate": "105.58"
+    },
+    "NL McCullum": {
+      "StrikeRate": "113.04"
+    },
+    "JE Taylor": {
+      "StrikeRate": "75.00"
+    },
+    "A Mithun": {
+      "StrikeRate": "135.00"
+    },
+    "J Syed Mohammad": {
+      "StrikeRate": "115.38"
+    },
+    "MR Marsh": {
+      "StrikeRate": "100.00"
+    },
+    "SP Goswami": {
+      "StrikeRate": "93.55"
+    },
+    "RN ten Doeschate": {
+      "StrikeRate": "140.79"
+    },
+    "TR Birt": {
+      "StrikeRate": "127.12"
+    },
+    "Harbhajan Singh": {
+      "StrikeRate": "139.19"
+    },
+    "SL Malinga": {
+      "StrikeRate": "88.89"
+    },
+    "AG Murtaza": {
+      "StrikeRate": "40.00"
+    },
+    "M Kaif": {
+      "StrikeRate": "117.14"
+    },
+    "Harpreet Singh": {
+      "StrikeRate": "70.00"
+    },
+    "M Klinger": {
+      "StrikeRate": "93.59"
+    },
+    "B Akhil": {
+      "StrikeRate": "144.44"
+    },
+    "Bipul Sharma": {
+      "StrikeRate": "127.78"
+    },
+    "AC Blizzard": {
+      "StrikeRate": "136.36"
+    },
+    "TL Suman": {
+      "StrikeRate": "122.64"
+    },
+    "AA Jhunjhunwala": {
+      "StrikeRate": "52.63"
+    },
+    "MV Boucher": {
+      "StrikeRate": "100.00"
+    },
+    "I Malhotra": {
+      "StrikeRate": "175.00"
+    },
+    "L Ablish": {
+      "StrikeRate": "0.00"
+    },
+    "CA Ingram": {
+      "StrikeRate": "80.77"
+    },
+    "AB Agarkar": {
+      "StrikeRate": "100.00"
+    },
+    "S Nadeem": {
+      "StrikeRate": "0.00"
+    },
+    "P Parameswaran": {
+      "StrikeRate": "100.00"
+    },
+    "Mandeep Singh": {
+      "StrikeRate": "111.90"
+    },
+    "SD Chitnis": {
+      "StrikeRate": "100.00"
+    },
+    "SJ Srivastava": {
+      "StrikeRate": "133.33"
+    },
+    "CJ Ferguson": {
+      "StrikeRate": "85.71"
+    },
+    "SC Ganguly": {
+      "StrikeRate": "81.97"
+    },
+    "DS Kulkarni": {
+      "StrikeRate": "50.00"
+    },
+    "MM Patel": {
+      "StrikeRate": "0.00"
+    },
+    "AB McDonald": {
+      "StrikeRate": "114.29"
+    },
+    "OA Shah": {
+      "StrikeRate": "162.50"
+    },
+    "LA Pomersbach": {
+      "StrikeRate": "124.39"
+    },
+    "KB Arun Karthik": {
+      "StrikeRate": "87.50"
+    },
+    "MJ Lumb": {
+      "StrikeRate": "0.00"
+    },
+    "S Sriram": {
+      "StrikeRate": "57.14"
+    },
+    "VR Aaron": {
+      "StrikeRate": "0.00"
+    },
+    "PR Shah": {
+      "StrikeRate": "100.00"
+    },
+    "JDP Oram": {
+      "StrikeRate": "0.00"
+    },
+    "AA Chavan": {
+      "StrikeRate": "33.33"
+    },
+    "ND Doshi": {
+      "StrikeRate": "0.00"
+    },
+    "B Kumar": {
+      "StrikeRate": "100.00"
+    },
+    "CK Langeveldt": {
+      "StrikeRate": "100.00"
+    },
+    "WP Saha": {
+      "StrikeRate": "101.49"
+    },
+    "Y Gnaneswara Rao": {
+      "StrikeRate": "105.56"
+    },
+    "S Rana": {
+      "StrikeRate": "112.50"
+    },
+    "BA Bhatt": {
+      "StrikeRate": "0.00"
+    },
+    "DJ Bravo": {
+      "StrikeRate": "183.33"
+    },
+    "AN Ahmed": {
+      "StrikeRate": "138.46"
+    }
+  },
+  "2012": {
+    "F du Plessis": {
+      "StrikeRate": "128.39"
+    },
+    "M Vijay": {
+      "StrikeRate": "123.08"
+    },
+    "SK Raina": {
+      "StrikeRate": "131.64"
+    },
+    "DJ Bravo": {
+      "StrikeRate": "136.90"
+    },
+    "JA Morkel": {
+      "StrikeRate": "150.70"
+    },
+    "S Badrinath": {
+      "StrikeRate": "104.26"
+    },
+    "MS Dhoni": {
+      "StrikeRate": "126.15"
+    },
+    "RA Jadeja": {
+      "StrikeRate": "124.84"
+    },
+    "R Ashwin": {
+      "StrikeRate": "120.00"
+    },
+    "SB Jakati": {
+      "StrikeRate": "58.33"
+    },
+    "DE Bollinger": {
+      "StrikeRate": "60.00"
+    },
+    "RE Levi": {
+      "StrikeRate": "112.16"
+    },
+    "SR Tendulkar": {
+      "StrikeRate": "109.09"
+    },
+    "RG Sharma": {
+      "StrikeRate": "123.71"
+    },
+    "AT Rayudu": {
+      "StrikeRate": "127.59"
+    },
+    "JEC Franklin": {
+      "StrikeRate": "96.07"
+    },
+    "BB McCullum": {
+      "StrikeRate": "100.70"
+    },
+    "JH Kallis": {
+      "StrikeRate": "104.07"
+    },
+    "G Gambhir": {
+      "StrikeRate": "137.53"
+    },
+    "MK Tiwary": {
+      "StrikeRate": "103.59"
+    },
+    "YK Pathan": {
+      "StrikeRate": "108.38"
+    },
+    "DB Das": {
+      "StrikeRate": "131.25"
+    },
+    "LR Shukla": {
+      "StrikeRate": "131.58"
+    },
+    "R Bhatia": {
+      "StrikeRate": "116.67"
+    },
+    "B Lee": {
+      "StrikeRate": "200.00"
+    },
+    "Iqbal Abdulla": {
+      "StrikeRate": "66.67"
+    },
+    "AJ Finch": {
+      "StrikeRate": "105.77"
+    },
+    "V Sehwag": {
+      "StrikeRate": "156.15"
+    },
+    "IK Pathan": {
+      "StrikeRate": "132.33"
+    },
+    "GJ Maxwell": {
+      "StrikeRate": "54.55"
+    },
+    "MK Pandey": {
+      "StrikeRate": "124.35"
+    },
+    "WD Parnell": {
+      "StrikeRate": "65.52"
+    },
+    "SC Ganguly": {
+      "StrikeRate": "93.06"
+    },
+    "RV Uthappa": {
+      "StrikeRate": "113.45"
+    },
+    "CJ Ferguson": {
+      "StrikeRate": "79.37"
+    },
+    "SPD Smith": {
+      "StrikeRate": "133.09"
+    },
+    "MN Samuels": {
+      "StrikeRate": "100.00"
+    },
+    "B Kumar": {
+      "StrikeRate": "97.56"
+    },
+    "M Kartik": {
+      "StrikeRate": "123.81"
+    },
+    "KD Karthik": {
+      "StrikeRate": "109.68"
+    },
+    "SA Yadav": {
+      "StrikeRate": "0.00"
+    },
+    "KA Pollard": {
+      "StrikeRate": "134.97"
+    },
+    "Harbhajan Singh": {
+      "StrikeRate": "131.71"
+    },
+    "SL Malinga": {
+      "StrikeRate": "100.00"
+    },
+    "PP Ojha": {
+      "StrikeRate": "28.57"
+    },
+    "MM Patel": {
+      "StrikeRate": "28.57"
+    },
+    "R Dravid": {
+      "StrikeRate": "108.96"
+    },
+    "AM Rahane": {
+      "StrikeRate": "125.00"
+    },
+    "AL Menaria": {
+      "StrikeRate": "106.28"
+    },
+    "BJ Hodge": {
+      "StrikeRate": "136.11"
+    },
+    "OA Shah": {
+      "StrikeRate": "126.39"
+    },
+    "KK Cooper": {
+      "StrikeRate": "190.00"
+    },
+    "AC Gilchrist": {
+      "StrikeRate": "117.01"
+    },
+    "PC Valthaty": {
+      "StrikeRate": "57.69"
+    },
+    "SE Marsh": {
+      "StrikeRate": "116.67"
+    },
+    "AM Nayar": {
+      "StrikeRate": "91.84"
+    },
+    "Mandeep Singh": {
+      "StrikeRate": "123.78"
+    },
+    "DJ Hussey": {
+      "StrikeRate": "126.52"
+    },
+    "Bipul Sharma": {
+      "StrikeRate": "153.19"
+    },
+    "PP Chawla": {
+      "StrikeRate": "120.45"
+    },
+    "JP Faulkner": {
+      "StrikeRate": "100.00"
+    },
+    "P Kumar": {
+      "StrikeRate": "109.38"
+    },
+    "Harmeet Singh": {
+      "StrikeRate": "214.29"
+    },
+    "AB McDonald": {
+      "StrikeRate": "130.56"
+    },
+    "CA Pujara": {
+      "StrikeRate": "73.91"
+    },
+    "V Kohli": {
+      "StrikeRate": "109.31"
+    },
+    "AB de Villiers": {
+      "StrikeRate": "157.14"
+    },
+    "SS Tiwary": {
+      "StrikeRate": "110.40"
+    },
+    "MA Agarwal": {
+      "StrikeRate": "137.20"
+    },
+    "DL Vettori": {
+      "StrikeRate": "110.71"
+    },
+    "R Vinay Kumar": {
+      "StrikeRate": "104.62"
+    },
+    "HV Patel": {
+      "StrikeRate": "88.24"
+    },
+    "NV Ojha": {
+      "StrikeRate": "110.87"
+    },
+    "Y Venugopal Rao": {
+      "StrikeRate": "102.33"
+    },
+    "Y Nagar": {
+      "StrikeRate": "114.18"
+    },
+    "DAJ Bracewell": {
+      "StrikeRate": "133.33"
+    },
+    "M Morkel": {
+      "StrikeRate": "60.00"
+    },
+    "DJ Harris": {
+      "StrikeRate": "107.77"
+    },
+    "S Dhawan": {
+      "StrikeRate": "127.01"
+    },
+    "PA Patel": {
+      "StrikeRate": "116.87"
+    },
+    "CL White": {
+      "StrikeRate": "146.48"
+    },
+    "B Chipli": {
+      "StrikeRate": "105.71"
+    },
+    "DT Christian": {
+      "StrikeRate": "118.85"
+    },
+    "MS Gony": {
+      "StrikeRate": "50.00"
+    },
+    "DB Ravi Teja": {
+      "StrikeRate": "100.00"
+    },
+    "DW Steyn": {
+      "StrikeRate": "90.48"
+    },
+    "Ankit Sharma": {
+      "StrikeRate": "138.46"
+    },
+    "SP Goswami": {
+      "StrikeRate": "100.00"
+    },
+    "SP Narine": {
+      "StrikeRate": "112.50"
+    },
+    "JD Ryder": {
+      "StrikeRate": "118.52"
+    },
+    "R Sharma": {
+      "StrikeRate": "18.18"
+    },
+    "AD Mascarenhas": {
+      "StrikeRate": "87.50"
+    },
+    "KC Sangakkara": {
+      "StrikeRate": "105.26"
+    },
+    "A Mishra": {
+      "StrikeRate": "76.19"
+    },
+    "TL Suman": {
+      "StrikeRate": "78.95"
+    },
+    "MS Bisla": {
+      "StrikeRate": "124.56"
+    },
+    "RN ten Doeschate": {
+      "StrikeRate": "100.00"
+    },
+    "Shakib Al Hasan": {
+      "StrikeRate": "118.18"
+    },
+    "CH Gayle": {
+      "StrikeRate": "155.30"
+    },
+    "Z Khan": {
+      "StrikeRate": "70.59"
+    },
+    "KP Pietersen": {
+      "StrikeRate": "145.24"
+    },
+    "DPMD Jayawardene": {
+      "StrikeRate": "109.48"
+    },
+    "J Botha": {
+      "StrikeRate": "105.45"
+    },
+    "AA Chavan": {
+      "StrikeRate": "137.50"
+    },
+    "A Singh": {
+      "StrikeRate": "0.00"
+    },
+    "SK Trivedi": {
+      "StrikeRate": "83.33"
+    },
+    "GB Hogg": {
+      "StrikeRate": "93.75"
+    },
+    "RR Bhatkal": {
+      "StrikeRate": "0.00"
+    },
+    "AD Mathews": {
+      "StrikeRate": "115.45"
+    },
+    "M Manhas": {
+      "StrikeRate": "121.21"
+    },
+    "A Nehra": {
+      "StrikeRate": "84.62"
+    },
+    "AB Dinda": {
+      "StrikeRate": "40.00"
+    },
+    "JP Duminy": {
+      "StrikeRate": "125.13"
+    },
+    "AA Jhunjhunwala": {
+      "StrikeRate": "88.89"
+    },
+    "LRPL Taylor": {
+      "StrikeRate": "111.30"
+    },
+    "P Dogra": {
+      "StrikeRate": "60.00"
+    },
+    "BA Bhatt": {
+      "StrikeRate": "300.00"
+    },
+    "M Kaif": {
+      "StrikeRate": "87.50"
+    },
+    "S Aravind": {
+      "StrikeRate": "175.00"
+    },
+    "M Muralitharan": {
+      "StrikeRate": "66.67"
+    },
+    "DJ Jacobs": {
+      "StrikeRate": "0.00"
+    },
+    "CJ McKay": {
+      "StrikeRate": "53.33"
+    },
+    "RP Singh": {
+      "StrikeRate": "50.00"
+    },
+    "DH Yagnik": {
+      "StrikeRate": "178.57"
+    },
+    "TM Dilshan": {
+      "StrikeRate": "104.01"
+    },
+    "DA Warner": {
+      "StrikeRate": "159.01"
+    },
+    "N Saini": {
+      "StrikeRate": "97.90"
+    },
+    "DA Miller": {
+      "StrikeRate": "128.95"
+    },
+    "Azhar Mahmood": {
+      "StrikeRate": "128.28"
+    },
+    "P Negi": {
+      "StrikeRate": "120.00"
+    },
+    "NLTC Perera": {
+      "StrikeRate": "33.33"
+    },
+    "IR Jaggi": {
+      "StrikeRate": "68.18"
+    },
+    "STR Binny": {
+      "StrikeRate": "128.57"
+    },
+    "RJ Peterson": {
+      "StrikeRate": "100.00"
+    },
+    "AC Thomas": {
+      "StrikeRate": "126.67"
+    },
+    "AC Blizzard": {
+      "StrikeRate": "0.00"
+    },
+    "WP Saha": {
+      "StrikeRate": "42.86"
+    },
+    "KMDN Kulasekara": {
+      "StrikeRate": "166.67"
+    },
+    "A Ashish Reddy": {
+      "StrikeRate": "116.67"
+    },
+    "V Pratap Singh": {
+      "StrikeRate": "0.00"
+    },
+    "MEK Hussey": {
+      "StrikeRate": "108.30"
+    },
+    "BB Samantray": {
+      "StrikeRate": "100.00"
+    },
+    "MJ Clarke": {
+      "StrikeRate": "102.08"
+    },
+    "SR Watson": {
+      "StrikeRate": "149.12"
+    },
+    "AUK Pathan": {
+      "StrikeRate": "75.00"
+    },
+    "Gurkeerat Singh": {
+      "StrikeRate": "159.26"
+    },
+    "RJ Harris": {
+      "StrikeRate": "163.64"
+    },
+    "DR Smith": {
+      "StrikeRate": "153.92"
+    },
+    "J Syed Mohammad": {
+      "StrikeRate": "400.00"
+    },
+    "S Nadeem": {
+      "StrikeRate": "0.00"
+    },
+    "VR Aaron": {
+      "StrikeRate": "33.33"
+    },
+    "AP Majumdar": {
+      "StrikeRate": "112.99"
+    },
+    "SD Chitnis": {
+      "StrikeRate": "103.13"
+    },
+    "PA Reddy": {
+      "StrikeRate": "115.87"
+    },
+    "J Theron": {
+      "StrikeRate": "116.67"
+    },
+    "S Anirudha": {
+      "StrikeRate": "211.11"
+    },
+    "MD Mishra": {
+      "StrikeRate": "100.00"
+    },
+    "K Upadhyay": {
+      "StrikeRate": "137.50"
+    },
+    "HH Gibbs": {
+      "StrikeRate": "89.01"
+    },
+    "P Awana": {
+      "StrikeRate": "80.00"
+    },
+    "UBT Chand": {
+      "StrikeRate": "102.86"
+    },
+    "AD Russell": {
+      "StrikeRate": "174.07"
+    },
+    "UT Yadav": {
+      "StrikeRate": "28.57"
+    },
+    "A Chandila": {
+      "StrikeRate": "0.00"
+    },
+    "CA Lynn": {
+      "StrikeRate": "60.00"
+    },
+    "Harpreet Singh": {
+      "StrikeRate": "100.00"
+    },
+    "AG Murtaza": {
+      "StrikeRate": "60.00"
+    },
+    "P Parameswaran": {
+      "StrikeRate": "0.00"
+    },
+    "DS Kulkarni": {
+      "StrikeRate": "200.00"
+    },
+    "Sunny Gupta": {
+      "StrikeRate": "0.00"
+    }
+  },
+  "2013": {
+    "UBT Chand": {
+      "StrikeRate": "96.93"
+    },
+    "DPMD Jayawardene": {
+      "StrikeRate": "102.80"
+    },
+    "DA Warner": {
+      "StrikeRate": "123.12"
+    },
+    "MC Juneja": {
+      "StrikeRate": "93.28"
+    },
+    "NV Ojha": {
+      "StrikeRate": "90.00"
+    },
+    "J Botha": {
+      "StrikeRate": "82.69"
+    },
+    "IK Pathan": {
+      "StrikeRate": "96.23"
+    },
+    "AD Russell": {
+      "StrikeRate": "73.33"
+    },
+    "S Nadeem": {
+      "StrikeRate": "51.85"
+    },
+    "A Nehra": {
+      "StrikeRate": "12.50"
+    },
+    "MS Bisla": {
+      "StrikeRate": "102.82"
+    },
+    "G Gambhir": {
+      "StrikeRate": "114.69"
+    },
+    "JH Kallis": {
+      "StrikeRate": "95.11"
+    },
+    "MK Tiwary": {
+      "StrikeRate": "102.82"
+    },
+    "EJG Morgan": {
+      "StrikeRate": "122.80"
+    },
+    "YK Pathan": {
+      "StrikeRate": "134.41"
+    },
+    "CH Gayle": {
+      "StrikeRate": "148.76"
+    },
+    "TM Dilshan": {
+      "StrikeRate": "78.35"
+    },
+    "V Kohli": {
+      "StrikeRate": "135.67"
+    },
+    "MA Agarwal": {
+      "StrikeRate": "104.69"
+    },
+    "DT Christian": {
+      "StrikeRate": "37.50"
+    },
+    "KK Nair": {
+      "StrikeRate": "75.00"
+    },
+    "KB Arun Karthik": {
+      "StrikeRate": "102.50"
+    },
+    "RT Ponting": {
+      "StrikeRate": "68.42"
+    },
+    "SR Tendulkar": {
+      "StrikeRate": "118.11"
+    },
+    "KD Karthik": {
+      "StrikeRate": "120.85"
+    },
+    "RG Sharma": {
+      "StrikeRate": "129.64"
+    },
+    "AT Rayudu": {
+      "StrikeRate": "112.77"
+    },
+    "Harbhajan Singh": {
+      "StrikeRate": "141.46"
+    },
+    "KA Pollard": {
+      "StrikeRate": "144.83"
+    },
+    "PA Reddy": {
+      "StrikeRate": "87.50"
+    },
+    "PA Patel": {
+      "StrikeRate": "112.64"
+    },
+    "KC Sangakkara": {
+      "StrikeRate": "87.59"
+    },
+    "CL White": {
+      "StrikeRate": "113.00"
+    },
+    "NLTC Perera": {
+      "StrikeRate": "135.84"
+    },
+    "GH Vihari": {
+      "StrikeRate": "83.97"
+    },
+    "A Ashish Reddy": {
+      "StrikeRate": "138.89"
+    },
+    "DB Ravi Teja": {
+      "StrikeRate": "77.78"
+    },
+    "RV Uthappa": {
+      "StrikeRate": "112.73"
+    },
+    "MK Pandey": {
+      "StrikeRate": "97.84"
+    },
+    "MN Samuels": {
+      "StrikeRate": "44.44"
+    },
+    "Yuvraj Singh": {
+      "StrikeRate": "123.32"
+    },
+    "LRPL Taylor": {
+      "StrikeRate": "81.82"
+    },
+    "AM Nayar": {
+      "StrikeRate": "89.19"
+    },
+    "MR Marsh": {
+      "StrikeRate": "128.44"
+    },
+    "AD Mathews": {
+      "StrikeRate": "121.99"
+    },
+    "B Kumar": {
+      "StrikeRate": "72.22"
+    },
+    "R Sharma": {
+      "StrikeRate": "64.71"
+    },
+    "AB Dinda": {
+      "StrikeRate": "81.82"
+    },
+    "MDKJ Perera": {
+      "StrikeRate": "107.69"
+    },
+    "AM Rahane": {
+      "StrikeRate": "103.39"
+    },
+    "R Dravid": {
+      "StrikeRate": "108.78"
+    },
+    "STR Binny": {
+      "StrikeRate": "143.63"
+    },
+    "BJ Hodge": {
+      "StrikeRate": "130.80"
+    },
+    "AL Menaria": {
+      "StrikeRate": "50.00"
+    },
+    "KK Cooper": {
+      "StrikeRate": "177.27"
+    },
+    "R Shukla": {
+      "StrikeRate": "50.00"
+    },
+    "DR Smith": {
+      "StrikeRate": "119.09"
+    },
+    "MEK Hussey": {
+      "StrikeRate": "126.38"
+    },
+    "M Vijay": {
+      "StrikeRate": "106.48"
+    },
+    "SK Raina": {
+      "StrikeRate": "148.11"
+    },
+    "DJ Bravo": {
+      "StrikeRate": "108.04"
+    },
+    "S Badrinath": {
+      "StrikeRate": "100.81"
+    },
+    "MS Dhoni": {
+      "StrikeRate": "154.70"
+    },
+    "RA Jadeja": {
+      "StrikeRate": "144.60"
+    },
+    "R Ashwin": {
+      "StrikeRate": "70.00"
+    },
+    "B Laughlin": {
+      "StrikeRate": "44.44"
+    },
+    "AS Rajpoot": {
+      "StrikeRate": "33.33"
+    },
+    "TL Suman": {
+      "StrikeRate": "89.66"
+    },
+    "AC Gilchrist": {
+      "StrikeRate": "125.64"
+    },
+    "Mandeep Singh": {
+      "StrikeRate": "114.04"
+    },
+    "M Vohra": {
+      "StrikeRate": "137.61"
+    },
+    "DJ Hussey": {
+      "StrikeRate": "111.90"
+    },
+    "MC Henriques": {
+      "StrikeRate": "129.92"
+    },
+    "R Vinay Kumar": {
+      "StrikeRate": "159.09"
+    },
+    "M Kartik": {
+      "StrikeRate": "66.67"
+    },
+    "JD Unadkat": {
+      "StrikeRate": "100.00"
+    },
+    "DW Steyn": {
+      "StrikeRate": "143.24"
+    },
+    "SR Watson": {
+      "StrikeRate": "138.17"
+    },
+    "DH Yagnik": {
+      "StrikeRate": "126.26"
+    },
+    "S Sreesanth": {
+      "StrikeRate": "25.00"
+    },
+    "LR Shukla": {
+      "StrikeRate": "23.08"
+    },
+    "R Bhatia": {
+      "StrikeRate": "122.22"
+    },
+    "B Lee": {
+      "StrikeRate": "175.00"
+    },
+    "Mohammed Shami": {
+      "StrikeRate": "50.00"
+    },
+    "SP Narine": {
+      "StrikeRate": "105.00"
+    },
+    "BMAJ Mendis": {
+      "StrikeRate": "85.19"
+    },
+    "KM Jadhav": {
+      "StrikeRate": "119.69"
+    },
+    "M Morkel": {
+      "StrikeRate": "190.00"
+    },
+    "UT Yadav": {
+      "StrikeRate": "97.44"
+    },
+    "Gurkeerat Singh": {
+      "StrikeRate": "110.20"
+    },
+    "Azhar Mahmood": {
+      "StrikeRate": "124.05"
+    },
+    "R Sathish": {
+      "StrikeRate": "137.97"
+    },
+    "PP Chawla": {
+      "StrikeRate": "106.67"
+    },
+    "RJ Harris": {
+      "StrikeRate": "40.00"
+    },
+    "P Kumar": {
+      "StrikeRate": "114.63"
+    },
+    "P Awana": {
+      "StrikeRate": "11.11"
+    },
+    "R McLaren": {
+      "StrikeRate": "50.00"
+    },
+    "PJ Sangwan": {
+      "StrikeRate": "200.00"
+    },
+    "AB de Villiers": {
+      "StrikeRate": "165.04"
+    },
+    "JP Faulkner": {
+      "StrikeRate": "100.00"
+    },
+    "AJ Finch": {
+      "StrikeRate": "132.56"
+    },
+    "V Sehwag": {
+      "StrikeRate": "120.90"
+    },
+    "A Mishra": {
+      "StrikeRate": "86.41"
+    },
+    "R Rampaul": {
+      "StrikeRate": "97.44"
+    },
+    "CH Morris": {
+      "StrikeRate": "82.35"
+    },
+    "KV Sharma": {
+      "StrikeRate": "95.51"
+    },
+    "SV Samson": {
+      "StrikeRate": "115.08"
+    },
+    "SPD Smith": {
+      "StrikeRate": "118.66"
+    },
+    "S Anirudha": {
+      "StrikeRate": "0.00"
+    },
+    "JA Morkel": {
+      "StrikeRate": "124.32"
+    },
+    "DA Miller": {
+      "StrikeRate": "162.65"
+    },
+    "MS Gony": {
+      "StrikeRate": "166.67"
+    },
+    "DB Das": {
+      "StrikeRate": "98.68"
+    },
+    "SMSM Senanayake": {
+      "StrikeRate": "58.82"
+    },
+    "BJ Rohrer": {
+      "StrikeRate": "132.19"
+    },
+    "KL Rahul": {
+      "StrikeRate": "125.00"
+    },
+    "AB McDonald": {
+      "StrikeRate": "0.00"
+    },
+    "J Syed Mohammad": {
+      "StrikeRate": "76.92"
+    },
+    "Q de Kock": {
+      "StrikeRate": "37.50"
+    },
+    "BB Samantray": {
+      "StrikeRate": "107.89"
+    },
+    "R Dhawan": {
+      "StrikeRate": "100.00"
+    },
+    "MG Johnson": {
+      "StrikeRate": "105.41"
+    },
+    "SL Malinga": {
+      "StrikeRate": "47.37"
+    },
+    "PP Ojha": {
+      "StrikeRate": "50.00"
+    },
+    "AB Agarkar": {
+      "StrikeRate": "75.00"
+    },
+    "PC Valthaty": {
+      "StrikeRate": "35.29"
+    },
+    "AD Mascarenhas": {
+      "StrikeRate": "100.00"
+    },
+    "L Balaji": {
+      "StrikeRate": "90.00"
+    },
+    "A Chandila": {
+      "StrikeRate": "66.67"
+    },
+    "SW Tait": {
+      "StrikeRate": "33.33"
+    },
+    "SK Trivedi": {
+      "StrikeRate": "42.86"
+    },
+    "SS Tiwary": {
+      "StrikeRate": "96.46"
+    },
+    "LJ Wright": {
+      "StrikeRate": "168.25"
+    },
+    "M Manhas": {
+      "StrikeRate": "76.47"
+    },
+    "AG Murtaza": {
+      "StrikeRate": "125.00"
+    },
+    "IC Pandey": {
+      "StrikeRate": "0.00"
+    },
+    "SE Marsh": {
+      "StrikeRate": "117.19"
+    },
+    "CM Gautam": {
+      "StrikeRate": "118.92"
+    },
+    "S Dhawan": {
+      "StrikeRate": "118.70"
+    },
+    "X Thalaivan Sargunam": {
+      "StrikeRate": "58.82"
+    },
+    "DJG Sammy": {
+      "StrikeRate": "127.94"
+    },
+    "WP Saha": {
+      "StrikeRate": "122.81"
+    },
+    "BB McCullum": {
+      "StrikeRate": "85.71"
+    },
+    "A Mukund": {
+      "StrikeRate": "86.36"
+    },
+    "OA Shah": {
+      "StrikeRate": "104.17"
+    },
+    "KW Richardson": {
+      "StrikeRate": "94.44"
+    },
+    "S Narwal": {
+      "StrikeRate": "143.75"
+    },
+    "LA Pomersbach": {
+      "StrikeRate": "96.67"
+    },
+    "BAW Mendis": {
+      "StrikeRate": "50.00"
+    },
+    "CA Pujara": {
+      "StrikeRate": "92.00"
+    },
+    "MM Sharma": {
+      "StrikeRate": "0.00"
+    },
+    "Iqbal Abdulla": {
+      "StrikeRate": "57.14"
+    },
+    "RN ten Doeschate": {
+      "StrikeRate": "134.92"
+    },
+    "UA Birla": {
+      "StrikeRate": "46.67"
+    },
+    "M Rawat": {
+      "StrikeRate": "45.45"
+    },
+    "WD Parnell": {
+      "StrikeRate": "71.43"
+    },
+    "Parvez Rasool": {
+      "StrikeRate": "55.56"
+    },
+    "K Upadhyay": {
+      "StrikeRate": "100.00"
+    },
+    "GJ Maxwell": {
+      "StrikeRate": "133.33"
+    },
+    "Harmeet Singh": {
+      "StrikeRate": "75.00"
+    },
+    "Sandeep Sharma": {
+      "StrikeRate": "0.00"
+    },
+    "A Mithun": {
+      "StrikeRate": "100.00"
+    },
+    "RE van der Merwe": {
+      "StrikeRate": "88.00"
+    },
+    "S Kaul": {
+      "StrikeRate": "77.78"
+    },
+    "AP Tare": {
+      "StrikeRate": "146.43"
+    },
+    "Sachin Baby": {
+      "StrikeRate": "42.86"
+    },
+    "PV Tambe": {
+      "StrikeRate": "50.00"
+    },
+    "NM Coulter-Nile": {
+      "StrikeRate": "150.00"
+    },
+    "RV Gomez": {
+      "StrikeRate": "400.00"
+    },
+    "B Chipli": {
+      "StrikeRate": "84.21"
+    },
+    "P Dogra": {
+      "StrikeRate": "62.50"
+    }
+  },
+  "2014": {
+    "G Gambhir": {
+      "StrikeRate": "111.30"
+    },
+    "JH Kallis": {
+      "StrikeRate": "115.27"
+    },
+    "MK Pandey": {
+      "StrikeRate": "113.93"
+    },
+    "RV Uthappa": {
+      "StrikeRate": "136.08"
+    },
+    "YK Pathan": {
+      "StrikeRate": "159.52"
+    },
+    "Shakib Al Hasan": {
+      "StrikeRate": "143.13"
+    },
+    "SA Yadav": {
+      "StrikeRate": "133.33"
+    },
+    "MEK Hussey": {
+      "StrikeRate": "111.76"
+    },
+    "AP Tare": {
+      "StrikeRate": "123.53"
+    },
+    "AT Rayudu": {
+      "StrikeRate": "121.96"
+    },
+    "RG Sharma": {
+      "StrikeRate": "127.04"
+    },
+    "KA Pollard": {
+      "StrikeRate": "131.25"
+    },
+    "CJ Anderson": {
+      "StrikeRate": "142.47"
+    },
+    "Harbhajan Singh": {
+      "StrikeRate": "107.69"
+    },
+    "CM Gautam": {
+      "StrikeRate": "104.31"
+    },
+    "MA Agarwal": {
+      "StrikeRate": "123.66"
+    },
+    "M Vijay": {
+      "StrikeRate": "105.08"
+    },
+    "KD Karthik": {
+      "StrikeRate": "124.52"
+    },
+    "MK Tiwary": {
+      "StrikeRate": "123.58"
+    },
+    "JP Duminy": {
+      "StrikeRate": "131.83"
+    },
+    "LRPL Taylor": {
+      "StrikeRate": "95.16"
+    },
+    "PA Patel": {
+      "StrikeRate": "107.33"
+    },
+    "NJ Maddinson": {
+      "StrikeRate": "114.29"
+    },
+    "V Kohli": {
+      "StrikeRate": "119.27"
+    },
+    "Yuvraj Singh": {
+      "StrikeRate": "130.56"
+    },
+    "DR Smith": {
+      "StrikeRate": "133.18"
+    },
+    "BB McCullum": {
+      "StrikeRate": "118.77"
+    },
+    "SK Raina": {
+      "StrikeRate": "141.35"
+    },
+    "MS Dhoni": {
+      "StrikeRate": "143.80"
+    },
+    "DJ Bravo": {
+      "StrikeRate": "266.67"
+    },
+    "CA Pujara": {
+      "StrikeRate": "96.90"
+    },
+    "V Sehwag": {
+      "StrikeRate": "136.23"
+    },
+    "GJ Maxwell": {
+      "StrikeRate": "176.92"
+    },
+    "AR Patel": {
+      "StrikeRate": "101.64"
+    },
+    "DA Miller": {
+      "StrikeRate": "145.28"
+    },
+    "GJ Bailey": {
+      "StrikeRate": "135.26"
+    },
+    "AJ Finch": {
+      "StrikeRate": "115.30"
+    },
+    "DA Warner": {
+      "StrikeRate": "136.79"
+    },
+    "S Dhawan": {
+      "StrikeRate": "113.55"
+    },
+    "KL Rahul": {
+      "StrikeRate": "100.00"
+    },
+    "DJG Sammy": {
+      "StrikeRate": "111.34"
+    },
+    "Y Venugopal Rao": {
+      "StrikeRate": "109.23"
+    },
+    "KV Sharma": {
+      "StrikeRate": "140.00"
+    },
+    "AM Nayar": {
+      "StrikeRate": "86.00"
+    },
+    "SV Samson": {
+      "StrikeRate": "121.07"
+    },
+    "AM Rahane": {
+      "StrikeRate": "113.76"
+    },
+    "SR Watson": {
+      "StrikeRate": "120.00"
+    },
+    "STR Binny": {
+      "StrikeRate": "100.82"
+    },
+    "BJ Hodge": {
+      "StrikeRate": "136.49"
+    },
+    "R Bhatia": {
+      "StrikeRate": "121.82"
+    },
+    "JP Faulkner": {
+      "StrikeRate": "182.83"
+    },
+    "Z Khan": {
+      "StrikeRate": "114.29"
+    },
+    "SL Malinga": {
+      "StrikeRate": "50.00"
+    },
+    "PP Ojha": {
+      "StrikeRate": "50.00"
+    },
+    "JJ Bumrah": {
+      "StrikeRate": "25.00"
+    },
+    "AB de Villiers": {
+      "StrikeRate": "154.90"
+    },
+    "JDS Neesham": {
+      "StrikeRate": "91.30"
+    },
+    "SPD Smith": {
+      "StrikeRate": "132.17"
+    },
+    "WP Saha": {
+      "StrikeRate": "141.96"
+    },
+    "F du Plessis": {
+      "StrikeRate": "126.25"
+    },
+    "RA Jadeja": {
+      "StrikeRate": "129.20"
+    },
+    "M Manhas": {
+      "StrikeRate": "134.62"
+    },
+    "R Ashwin": {
+      "StrikeRate": "93.75"
+    },
+    "S Nadeem": {
+      "StrikeRate": "35.00"
+    },
+    "Mohammed Shami": {
+      "StrikeRate": "37.50"
+    },
+    "JD Unadkat": {
+      "StrikeRate": "16.67"
+    },
+    "MG Johnson": {
+      "StrikeRate": "109.80"
+    },
+    "IK Pathan": {
+      "StrikeRate": "94.83"
+    },
+    "DW Steyn": {
+      "StrikeRate": "84.62"
+    },
+    "A Mishra": {
+      "StrikeRate": "57.14"
+    },
+    "B Kumar": {
+      "StrikeRate": "25.00"
+    },
+    "TG Southee": {
+      "StrikeRate": "100.00"
+    },
+    "DS Kulkarni": {
+      "StrikeRate": "129.63"
+    },
+    "PV Tambe": {
+      "StrikeRate": "55.56"
+    },
+    "CA Lynn": {
+      "StrikeRate": "111.54"
+    },
+    "R Vinay Kumar": {
+      "StrikeRate": "57.14"
+    },
+    "YV Takawale": {
+      "StrikeRate": "113.04"
+    },
+    "JA Morkel": {
+      "StrikeRate": "109.76"
+    },
+    "Q de Kock": {
+      "StrikeRate": "115.91"
+    },
+    "KP Pietersen": {
+      "StrikeRate": "123.01"
+    },
+    "S Rana": {
+      "StrikeRate": "110.61"
+    },
+    "MA Starc": {
+      "StrikeRate": "101.19"
+    },
+    "R Rampaul": {
+      "StrikeRate": "100.00"
+    },
+    "AB Dinda": {
+      "StrikeRate": "30.77"
+    },
+    "KK Nair": {
+      "StrikeRate": "139.24"
+    },
+    "R Dhawan": {
+      "StrikeRate": "109.33"
+    },
+    "L Balaji": {
+      "StrikeRate": "33.33"
+    },
+    "Sandeep Sharma": {
+      "StrikeRate": "40.00"
+    },
+    "PP Chawla": {
+      "StrikeRate": "155.00"
+    },
+    "SP Narine": {
+      "StrikeRate": "66.67"
+    },
+    "UT Yadav": {
+      "StrikeRate": "50.00"
+    },
+    "M Morkel": {
+      "StrikeRate": "100.00"
+    },
+    "KM Jadhav": {
+      "StrikeRate": "143.27"
+    },
+    "CH Gayle": {
+      "StrikeRate": "104.26"
+    },
+    "VR Aaron": {
+      "StrikeRate": "102.94"
+    },
+    "MS Bisla": {
+      "StrikeRate": "33.33"
+    },
+    "NV Ojha": {
+      "StrikeRate": "136.47"
+    },
+    "BR Dunk": {
+      "StrikeRate": "111.11"
+    },
+    "AD Russell": {
+      "StrikeRate": "25.00"
+    },
+    "RR Rossouw": {
+      "StrikeRate": "95.12"
+    },
+    "HV Patel": {
+      "StrikeRate": "185.71"
+    },
+    "RN ten Doeschate": {
+      "StrikeRate": "157.58"
+    },
+    "LR Shukla": {
+      "StrikeRate": "81.58"
+    },
+    "Mandeep Singh": {
+      "StrikeRate": "85.71"
+    },
+    "MC Henriques": {
+      "StrikeRate": "64.29"
+    },
+    "KW Richardson": {
+      "StrikeRate": "50.00"
+    },
+    "Shivam Sharma": {
+      "StrikeRate": "166.67"
+    },
+    "YS Chahal": {
+      "StrikeRate": "50.00"
+    },
+    "R Shukla": {
+      "StrikeRate": "85.71"
+    },
+    "LMP Simmons": {
+      "StrikeRate": "131.77"
+    },
+    "VH Zol": {
+      "StrikeRate": "111.54"
+    },
+    "Ankit Sharma": {
+      "StrikeRate": "109.68"
+    },
+    "DH Yagnik": {
+      "StrikeRate": "66.67"
+    },
+    "M Vohra": {
+      "StrikeRate": "132.79"
+    },
+    "KK Cooper": {
+      "StrikeRate": "139.29"
+    },
+    "BCJ Cutting": {
+      "StrikeRate": "133.33"
+    },
+    "Imran Tahir": {
+      "StrikeRate": "80.00"
+    },
+    "S Kaul": {
+      "StrikeRate": "100.00"
+    },
+    "DJ Hussey": {
+      "StrikeRate": "120.83"
+    },
+    "AN Ahmed": {
+      "StrikeRate": "400.00"
+    },
+    "UBT Chand": {
+      "StrikeRate": "20.00"
+    },
+    "WD Parnell": {
+      "StrikeRate": "100.00"
+    },
+    "SE Marsh": {
+      "StrikeRate": "129.63"
+    },
+    "BE Hendricks": {
+      "StrikeRate": "0.00"
+    },
+    "S Gopal": {
+      "StrikeRate": "110.00"
+    },
+    "M de Lange": {
+      "StrikeRate": "50.00"
+    },
+    "R Tewatia": {
+      "StrikeRate": "123.08"
+    },
+    "VS Malik": {
+      "StrikeRate": "50.00"
+    },
+    "S Anirudha": {
+      "StrikeRate": "60.00"
+    },
+    "JO Holder": {
+      "StrikeRate": "133.33"
+    },
+    "Karanveer Singh": {
+      "StrikeRate": "100.00"
+    },
+    "P Kumar": {
+      "StrikeRate": "50.00"
+    },
+    "MM Sharma": {
+      "StrikeRate": "33.33"
+    }
+  },
+  "2015": {
+    "RG Sharma": {
+      "StrikeRate": "142.18"
+    },
+    "AJ Finch": {
+      "StrikeRate": "69.70"
+    },
+    "AP Tare": {
+      "StrikeRate": "77.78"
+    },
+    "AT Rayudu": {
+      "StrikeRate": "144.10"
+    },
+    "CJ Anderson": {
+      "StrikeRate": "116.33"
+    },
+    "RV Uthappa": {
+      "StrikeRate": "126.83"
+    },
+    "G Gambhir": {
+      "StrikeRate": "113.54"
+    },
+    "MK Pandey": {
+      "StrikeRate": "120.32"
+    },
+    "SA Yadav": {
+      "StrikeRate": "136.52"
+    },
+    "YK Pathan": {
+      "StrikeRate": "128.40"
+    },
+    "DR Smith": {
+      "StrikeRate": "117.01"
+    },
+    "BB McCullum": {
+      "StrikeRate": "148.81"
+    },
+    "SK Raina": {
+      "StrikeRate": "117.24"
+    },
+    "F du Plessis": {
+      "StrikeRate": "119.87"
+    },
+    "RA Jadeja": {
+      "StrikeRate": "103.13"
+    },
+    "MS Dhoni": {
+      "StrikeRate": "120.39"
+    },
+    "DJ Bravo": {
+      "StrikeRate": "129.14"
+    },
+    "R Ashwin": {
+      "StrikeRate": "152.94"
+    },
+    "MM Sharma": {
+      "StrikeRate": "155.56"
+    },
+    "MA Agarwal": {
+      "StrikeRate": "113.90"
+    },
+    "CM Gautam": {
+      "StrikeRate": "80.00"
+    },
+    "JA Morkel": {
+      "StrikeRate": "122.86"
+    },
+    "SS Iyer": {
+      "StrikeRate": "121.94"
+    },
+    "KM Jadhav": {
+      "StrikeRate": "132.17"
+    },
+    "Yuvraj Singh": {
+      "StrikeRate": "115.35"
+    },
+    "JP Duminy": {
+      "StrikeRate": "126.61"
+    },
+    "NM Coulter-Nile": {
+      "StrikeRate": "100.00"
+    },
+    "A Mishra": {
+      "StrikeRate": "61.54"
+    },
+    "Imran Tahir": {
+      "StrikeRate": "83.33"
+    },
+    "AM Rahane": {
+      "StrikeRate": "127.66"
+    },
+    "SV Samson": {
+      "StrikeRate": "122.89"
+    },
+    "SPD Smith": {
+      "StrikeRate": "130.70"
+    },
+    "KK Nair": {
+      "StrikeRate": "123.13"
+    },
+    "STR Binny": {
+      "StrikeRate": "107.25"
+    },
+    "JP Faulkner": {
+      "StrikeRate": "124.14"
+    },
+    "DJ Hooda": {
+      "StrikeRate": "152.53"
+    },
+    "CH Morris": {
+      "StrikeRate": "161.70"
+    },
+    "V Sehwag": {
+      "StrikeRate": "111.24"
+    },
+    "WP Saha": {
+      "StrikeRate": "121.46"
+    },
+    "M Vijay": {
+      "StrikeRate": "107.73"
+    },
+    "GJ Maxwell": {
+      "StrikeRate": "126.96"
+    },
+    "AR Patel": {
+      "StrikeRate": "113.81"
+    },
+    "DA Miller": {
+      "StrikeRate": "130.29"
+    },
+    "GJ Bailey": {
+      "StrikeRate": "132.14"
+    },
+    "MG Johnson": {
+      "StrikeRate": "81.58"
+    },
+    "Anureet Singh": {
+      "StrikeRate": "58.06"
+    },
+    "Karanveer Singh": {
+      "StrikeRate": "68.75"
+    },
+    "DA Warner": {
+      "StrikeRate": "152.72"
+    },
+    "S Dhawan": {
+      "StrikeRate": "120.48"
+    },
+    "KL Rahul": {
+      "StrikeRate": "106.77"
+    },
+    "NV Ojha": {
+      "StrikeRate": "108.73"
+    },
+    "RS Bopara": {
+      "StrikeRate": "119.83"
+    },
+    "KS Williamson": {
+      "StrikeRate": "106.90"
+    },
+    "KV Sharma": {
+      "StrikeRate": "119.54"
+    },
+    "Parvez Rasool": {
+      "StrikeRate": "100.00"
+    },
+    "AD Russell": {
+      "StrikeRate": "186.29"
+    },
+    "Shakib Al Hasan": {
+      "StrikeRate": "112.50"
+    },
+    "CH Gayle": {
+      "StrikeRate": "136.77"
+    },
+    "V Kohli": {
+      "StrikeRate": "127.85"
+    },
+    "KD Karthik": {
+      "StrikeRate": "117.50"
+    },
+    "Mandeep Singh": {
+      "StrikeRate": "153.92"
+    },
+    "AB de Villiers": {
+      "StrikeRate": "169.87"
+    },
+    "DJG Sammy": {
+      "StrikeRate": "72.22"
+    },
+    "SA Abbott": {
+      "StrikeRate": "115.38"
+    },
+    "HV Patel": {
+      "StrikeRate": "135.71"
+    },
+    "AN Ahmed": {
+      "StrikeRate": "200.00"
+    },
+    "AD Mathews": {
+      "StrikeRate": "132.11"
+    },
+    "TG Southee": {
+      "StrikeRate": "144.44"
+    },
+    "R Dhawan": {
+      "StrikeRate": "109.09"
+    },
+    "KA Pollard": {
+      "StrikeRate": "155.19"
+    },
+    "J Suchith": {
+      "StrikeRate": "145.45"
+    },
+    "Harbhajan Singh": {
+      "StrikeRate": "144.44"
+    },
+    "VR Aaron": {
+      "StrikeRate": "200.00"
+    },
+    "YS Chahal": {
+      "StrikeRate": "100.00"
+    },
+    "PA Patel": {
+      "StrikeRate": "132.94"
+    },
+    "UBT Chand": {
+      "StrikeRate": "114.61"
+    },
+    "S Gopal": {
+      "StrikeRate": "100.00"
+    },
+    "P Negi": {
+      "StrikeRate": "150.65"
+    },
+    "A Nehra": {
+      "StrikeRate": "14.29"
+    },
+    "RG More": {
+      "StrikeRate": "100.00"
+    },
+    "EJG Morgan": {
+      "StrikeRate": "121.43"
+    },
+    "A Ashish Reddy": {
+      "StrikeRate": "158.70"
+    },
+    "LMP Simmons": {
+      "StrikeRate": "118.68"
+    },
+    "R Vinay Kumar": {
+      "StrikeRate": "0.00"
+    },
+    "P Kumar": {
+      "StrikeRate": "68.00"
+    },
+    "NLTC Perera": {
+      "StrikeRate": "80.00"
+    },
+    "Gurkeerat Singh": {
+      "StrikeRate": "85.37"
+    },
+    "RN ten Doeschate": {
+      "StrikeRate": "135.56"
+    },
+    "PP Chawla": {
+      "StrikeRate": "110.20"
+    },
+    "SR Watson": {
+      "StrikeRate": "128.52"
+    },
+    "HH Pandya": {
+      "StrikeRate": "164.71"
+    },
+    "MS Bisla": {
+      "StrikeRate": "123.33"
+    },
+    "RR Rossouw": {
+      "StrikeRate": "140.00"
+    },
+    "D Wiese": {
+      "StrikeRate": "135.56"
+    },
+    "Iqbal Abdulla": {
+      "StrikeRate": "100.00"
+    },
+    "MK Tiwary": {
+      "StrikeRate": "98.28"
+    },
+    "SE Marsh": {
+      "StrikeRate": "143.08"
+    },
+    "MC Henriques": {
+      "StrikeRate": "132.87"
+    },
+    "SN Khan": {
+      "StrikeRate": "154.17"
+    },
+    "MA Starc": {
+      "StrikeRate": "78.57"
+    },
+    "MJ McClenaghan": {
+      "StrikeRate": "216.67"
+    },
+    "SL Malinga": {
+      "StrikeRate": "54.55"
+    },
+    "DS Kulkarni": {
+      "StrikeRate": "33.33"
+    },
+    "PV Tambe": {
+      "StrikeRate": "60.00"
+    },
+    "GH Vihari": {
+      "StrikeRate": "108.33"
+    },
+    "DW Steyn": {
+      "StrikeRate": "153.85"
+    },
+    "B Kumar": {
+      "StrikeRate": "170.00"
+    },
+    "Sandeep Sharma": {
+      "StrikeRate": "64.29"
+    },
+    "S Nadeem": {
+      "StrikeRate": "28.57"
+    },
+    "DJ Muthuswami": {
+      "StrikeRate": "33.33"
+    },
+    "M Vohra": {
+      "StrikeRate": "98.80"
+    },
+    "J Botha": {
+      "StrikeRate": "206.67"
+    },
+    "SS Tiwary": {
+      "StrikeRate": "131.33"
+    },
+    "PJ Cummins": {
+      "StrikeRate": "0.00"
+    },
+    "UT Yadav": {
+      "StrikeRate": "181.25"
+    },
+    "GB Hogg": {
+      "StrikeRate": "116.67"
+    },
+    "SN Thakur": {
+      "StrikeRate": "116.67"
+    },
+    "J Theron": {
+      "StrikeRate": "100.00"
+    },
+    "NJ Maddinson": {
+      "StrikeRate": "57.14"
+    },
+    "Bipul Sharma": {
+      "StrikeRate": "50.00"
+    },
+    "SP Narine": {
+      "StrikeRate": "0.00"
+    },
+    "Q de Kock": {
+      "StrikeRate": "156.41"
+    },
+    "R Bhatia": {
+      "StrikeRate": "0.00"
+    },
+    "Ankit Sharma": {
+      "StrikeRate": "116.67"
+    },
+    "BE Hendricks": {
+      "StrikeRate": "50.00"
+    },
+    "MEK Hussey": {
+      "StrikeRate": "105.48"
+    },
+    "Azhar Mahmood": {
+      "StrikeRate": "75.00"
+    },
+    "M Morkel": {
+      "StrikeRate": "133.33"
+    },
+    "S Aravind": {
+      "StrikeRate": "0.00"
+    }
+  },
+  "2016": {
+    "LMP Simmons": {
+      "StrikeRate": "100.00"
+    },
+    "RG Sharma": {
+      "StrikeRate": "131.45"
+    },
+    "HH Pandya": {
+      "StrikeRate": "66.67"
+    },
+    "JC Buttler": {
+      "StrikeRate": "134.92"
+    },
+    "AT Rayudu": {
+      "StrikeRate": "117.61"
+    },
+    "KA Pollard": {
+      "StrikeRate": "133.33"
+    },
+    "S Gopal": {
+      "StrikeRate": "12.50"
+    },
+    "Harbhajan Singh": {
+      "StrikeRate": "101.10"
+    },
+    "R Vinay Kumar": {
+      "StrikeRate": "108.33"
+    },
+    "MJ McClenaghan": {
+      "StrikeRate": "147.83"
+    },
+    "AM Rahane": {
+      "StrikeRate": "124.03"
+    },
+    "F du Plessis": {
+      "StrikeRate": "121.89"
+    },
+    "KP Pietersen": {
+      "StrikeRate": "119.67"
+    },
+    "MA Agarwal": {
+      "StrikeRate": "103.85"
+    },
+    "Q de Kock": {
+      "StrikeRate": "130.88"
+    },
+    "SS Iyer": {
+      "StrikeRate": "65.22"
+    },
+    "KK Nair": {
+      "StrikeRate": "117.43"
+    },
+    "SV Samson": {
+      "StrikeRate": "109.81"
+    },
+    "P Negi": {
+      "StrikeRate": "90.48"
+    },
+    "CR Brathwaite": {
+      "StrikeRate": "207.50"
+    },
+    "CH Morris": {
+      "StrikeRate": "171.05"
+    },
+    "NM Coulter-Nile": {
+      "StrikeRate": "64.29"
+    },
+    "A Mishra": {
+      "StrikeRate": "28.57"
+    },
+    "Z Khan": {
+      "StrikeRate": "46.15"
+    },
+    "RV Uthappa": {
+      "StrikeRate": "131.33"
+    },
+    "G Gambhir": {
+      "StrikeRate": "118.16"
+    },
+    "MK Pandey": {
+      "StrikeRate": "130.53"
+    },
+    "M Vijay": {
+      "StrikeRate": "121.45"
+    },
+    "M Vohra": {
+      "StrikeRate": "118.38"
+    },
+    "DA Miller": {
+      "StrikeRate": "115.83"
+    },
+    "GJ Maxwell": {
+      "StrikeRate": "138.76"
+    },
+    "WP Saha": {
+      "StrikeRate": "126.17"
+    },
+    "MP Stoinis": {
+      "StrikeRate": "131.53"
+    },
+    "AR Patel": {
+      "StrikeRate": "137.04"
+    },
+    "AJ Finch": {
+      "StrikeRate": "126.37"
+    },
+    "BB McCullum": {
+      "StrikeRate": "129.67"
+    },
+    "SK Raina": {
+      "StrikeRate": "124.30"
+    },
+    "KD Karthik": {
+      "StrikeRate": "122.71"
+    },
+    "RA Jadeja": {
+      "StrikeRate": "101.06"
+    },
+    "Ishan Kishan": {
+      "StrikeRate": "102.44"
+    },
+    "DJ Bravo": {
+      "StrikeRate": "112.50"
+    },
+    "CH Gayle": {
+      "StrikeRate": "142.77"
+    },
+    "V Kohli": {
+      "StrikeRate": "148.55"
+    },
+    "AB de Villiers": {
+      "StrikeRate": "165.54"
+    },
+    "SR Watson": {
+      "StrikeRate": "132.59"
+    },
+    "KM Jadhav": {
+      "StrikeRate": "127.27"
+    },
+    "SN Khan": {
+      "StrikeRate": "212.90"
+    },
+    "DA Warner": {
+      "StrikeRate": "146.46"
+    },
+    "S Dhawan": {
+      "StrikeRate": "114.38"
+    },
+    "MC Henriques": {
+      "StrikeRate": "112.35"
+    },
+    "NV Ojha": {
+      "StrikeRate": "95.77"
+    },
+    "DJ Hooda": {
+      "StrikeRate": "115.20"
+    },
+    "EJG Morgan": {
+      "StrikeRate": "117.14"
+    },
+    "A Ashish Reddy": {
+      "StrikeRate": "156.67"
+    },
+    "KV Sharma": {
+      "StrikeRate": "105.88"
+    },
+    "AD Russell": {
+      "StrikeRate": "150.40"
+    },
+    "YK Pathan": {
+      "StrikeRate": "141.02"
+    },
+    "C Munro": {
+      "StrikeRate": "96.77"
+    },
+    "SA Yadav": {
+      "StrikeRate": "122.97"
+    },
+    "PA Patel": {
+      "StrikeRate": "109.94"
+    },
+    "SPD Smith": {
+      "StrikeRate": "146.74"
+    },
+    "MS Dhoni": {
+      "StrikeRate": "129.09"
+    },
+    "MR Marsh": {
+      "StrikeRate": "63.64"
+    },
+    "R Bhatia": {
+      "StrikeRate": "170.00"
+    },
+    "SE Marsh": {
+      "StrikeRate": "118.66"
+    },
+    "MG Johnson": {
+      "StrikeRate": "35.71"
+    },
+    "MM Sharma": {
+      "StrikeRate": "118.52"
+    },
+    "P Sahu": {
+      "StrikeRate": "146.15"
+    },
+    "Sandeep Sharma": {
+      "StrikeRate": "88.89"
+    },
+    "B Kumar": {
+      "StrikeRate": "153.57"
+    },
+    "KH Pandya": {
+      "StrikeRate": "186.61"
+    },
+    "TG Southee": {
+      "StrikeRate": "150.00"
+    },
+    "AD Nath": {
+      "StrikeRate": "74.07"
+    },
+    "JP Faulkner": {
+      "StrikeRate": "128.33"
+    },
+    "P Kumar": {
+      "StrikeRate": "88.89"
+    },
+    "DS Kulkarni": {
+      "StrikeRate": "168.75"
+    },
+    "NLTC Perera": {
+      "StrikeRate": "154.64"
+    },
+    "IK Pathan": {
+      "StrikeRate": "78.57"
+    },
+    "R Ashwin": {
+      "StrikeRate": "107.89"
+    },
+    "D Wiese": {
+      "StrikeRate": "125.00"
+    },
+    "JP Duminy": {
+      "StrikeRate": "121.66"
+    },
+    "MJ Guptill": {
+      "StrikeRate": "103.64"
+    },
+    "KJ Abbott": {
+      "StrikeRate": "162.50"
+    },
+    "Shakib Al Hasan": {
+      "StrikeRate": "105.56"
+    },
+    "KL Rahul": {
+      "StrikeRate": "143.32"
+    },
+    "TM Head": {
+      "StrikeRate": "128.57"
+    },
+    "STR Binny": {
+      "StrikeRate": "153.66"
+    },
+    "KW Richardson": {
+      "StrikeRate": "100.00"
+    },
+    "DW Steyn": {
+      "StrikeRate": "50.00"
+    },
+    "Ankit Sharma": {
+      "StrikeRate": "100.00"
+    },
+    "M Ashwin": {
+      "StrikeRate": "0.00"
+    },
+    "NS Naik": {
+      "StrikeRate": "69.70"
+    },
+    "R Dhawan": {
+      "StrikeRate": "233.33"
+    },
+    "AP Tare": {
+      "StrikeRate": "53.33"
+    },
+    "DR Smith": {
+      "StrikeRate": "143.36"
+    },
+    "JA Morkel": {
+      "StrikeRate": "177.78"
+    },
+    "R Sathish": {
+      "StrikeRate": "100.00"
+    },
+    "PP Chawla": {
+      "StrikeRate": "103.85"
+    },
+    "UT Yadav": {
+      "StrikeRate": "150.00"
+    },
+    "Bipul Sharma": {
+      "StrikeRate": "204.00"
+    },
+    "RR Pant": {
+      "StrikeRate": "127.74"
+    },
+    "CA Lynn": {
+      "StrikeRate": "108.70"
+    },
+    "SS Tiwary": {
+      "StrikeRate": "114.09"
+    },
+    "SW Billings": {
+      "StrikeRate": "133.33"
+    },
+    "Mohammed Shami": {
+      "StrikeRate": "50.00"
+    },
+    "JO Holder": {
+      "StrikeRate": "110.00"
+    },
+    "SP Narine": {
+      "StrikeRate": "50.00"
+    },
+    "KS Williamson": {
+      "StrikeRate": "98.41"
+    },
+    "Sachin Baby": {
+      "StrikeRate": "145.12"
+    },
+    "Parvez Rasool": {
+      "StrikeRate": "111.11"
+    },
+    "Gurkeerat Singh": {
+      "StrikeRate": "129.89"
+    },
+    "KC Cariappa": {
+      "StrikeRate": "118.18"
+    },
+    "PSP Handscomb": {
+      "StrikeRate": "50.00"
+    },
+    "Swapnil Singh": {
+      "StrikeRate": "0.00"
+    },
+    "J Yadav": {
+      "StrikeRate": "50.00"
+    },
+    "UT Khawaja": {
+      "StrikeRate": "120.95"
+    },
+    "Yuvraj Singh": {
+      "StrikeRate": "128.96"
+    },
+    "GJ Bailey": {
+      "StrikeRate": "84.85"
+    },
+    "HM Amla": {
+      "StrikeRate": "128.69"
+    },
+    "JJ Bumrah": {
+      "StrikeRate": "72.73"
+    },
+    "F Behardien": {
+      "StrikeRate": "107.69"
+    },
+    "BB Sran": {
+      "StrikeRate": "100.00"
+    },
+    "A Zampa": {
+      "StrikeRate": "0.00"
+    },
+    "N Rana": {
+      "StrikeRate": "133.33"
+    },
+    "A Nehra": {
+      "StrikeRate": "100.00"
+    },
+    "UBT Chand": {
+      "StrikeRate": "0.00"
+    },
+    "PV Tambe": {
+      "StrikeRate": "36.84"
+    },
+    "S Kaushik": {
+      "StrikeRate": "0.00"
+    },
+    "BCJ Cutting": {
+      "StrikeRate": "175.68"
+    },
+    "S Nadeem": {
+      "StrikeRate": "20.00"
+    },
+    "Imran Tahir": {
+      "StrikeRate": "71.43"
+    },
+    "M Morkel": {
+      "StrikeRate": "100.00"
+    },
+    "ER Dwivedi": {
+      "StrikeRate": "160.00"
+    },
+    "SB Jakati": {
+      "StrikeRate": "50.00"
+    },
+    "Iqbal Abdulla": {
+      "StrikeRate": "137.04"
+    },
+    "CJ Jordan": {
+      "StrikeRate": "75.00"
+    }
+  },
+  "2017": {
+    "DA Warner": {
+      "StrikeRate": "138.74"
+    },
+    "S Dhawan": {
+      "StrikeRate": "125.07"
+    },
+    "MC Henriques": {
+      "StrikeRate": "135.12"
+    },
+    "Yuvraj Singh": {
+      "StrikeRate": "134.04"
+    },
+    "DJ Hooda": {
+      "StrikeRate": "147.17"
+    },
+    "BCJ Cutting": {
+      "StrikeRate": "188.89"
+    },
+    "CH Gayle": {
+      "StrikeRate": "116.28"
+    },
+    "Mandeep Singh": {
+      "StrikeRate": "105.62"
+    },
+    "TM Head": {
+      "StrikeRate": "138.53"
+    },
+    "KM Jadhav": {
+      "StrikeRate": "137.63"
+    },
+    "SR Watson": {
+      "StrikeRate": "88.75"
+    },
+    "Sachin Baby": {
+      "StrikeRate": "88.24"
+    },
+    "STR Binny": {
+      "StrikeRate": "101.30"
+    },
+    "S Aravind": {
+      "StrikeRate": "80.00"
+    },
+    "YS Chahal": {
+      "StrikeRate": "50.00"
+    },
+    "TS Mills": {
+      "StrikeRate": "72.73"
+    },
+    "A Choudhary": {
+      "StrikeRate": "125.00"
+    },
+    "PA Patel": {
+      "StrikeRate": "128.25"
+    },
+    "JC Buttler": {
+      "StrikeRate": "146.77"
+    },
+    "RG Sharma": {
+      "StrikeRate": "119.78"
+    },
+    "N Rana": {
+      "StrikeRate": "120.22"
+    },
+    "AT Rayudu": {
+      "StrikeRate": "113.75"
+    },
+    "KH Pandya": {
+      "StrikeRate": "130.65"
+    },
+    "KA Pollard": {
+      "StrikeRate": "134.35"
+    },
+    "HH Pandya": {
+      "StrikeRate": "145.35"
+    },
+    "TG Southee": {
+      "StrikeRate": "233.33"
+    },
+    "AM Rahane": {
+      "StrikeRate": "116.46"
+    },
+    "MA Agarwal": {
+      "StrikeRate": "89.66"
+    },
+    "SPD Smith": {
+      "StrikeRate": "118.00"
+    },
+    "BA Stokes": {
+      "StrikeRate": "139.21"
+    },
+    "MS Dhoni": {
+      "StrikeRate": "111.11"
+    },
+    "JJ Roy": {
+      "StrikeRate": "143.90"
+    },
+    "BB McCullum": {
+      "StrikeRate": "140.97"
+    },
+    "SK Raina": {
+      "StrikeRate": "142.58"
+    },
+    "AJ Finch": {
+      "StrikeRate": "157.89"
+    },
+    "KD Karthik": {
+      "StrikeRate": "134.70"
+    },
+    "G Gambhir": {
+      "StrikeRate": "122.96"
+    },
+    "CA Lynn": {
+      "StrikeRate": "168.57"
+    },
+    "MK Tiwary": {
+      "StrikeRate": "133.88"
+    },
+    "DT Christian": {
+      "StrikeRate": "151.92"
+    },
+    "HM Amla": {
+      "StrikeRate": "141.89"
+    },
+    "M Vohra": {
+      "StrikeRate": "134.71"
+    },
+    "WP Saha": {
+      "StrikeRate": "120.62"
+    },
+    "AR Patel": {
+      "StrikeRate": "132.75"
+    },
+    "GJ Maxwell": {
+      "StrikeRate": "166.67"
+    },
+    "DA Miller": {
+      "StrikeRate": "101.22"
+    },
+    "Vishnu Vinod": {
+      "StrikeRate": "73.08"
+    },
+    "Iqbal Abdulla": {
+      "StrikeRate": "71.43"
+    },
+    "P Negi": {
+      "StrikeRate": "126.32"
+    },
+    "AP Tare": {
+      "StrikeRate": "72.00"
+    },
+    "SW Billings": {
+      "StrikeRate": "128.97"
+    },
+    "KK Nair": {
+      "StrikeRate": "122.71"
+    },
+    "SV Samson": {
+      "StrikeRate": "140.36"
+    },
+    "RR Pant": {
+      "StrikeRate": "161.95"
+    },
+    "CH Morris": {
+      "StrikeRate": "158.76"
+    },
+    "CR Brathwaite": {
+      "StrikeRate": "75.00"
+    },
+    "PJ Cummins": {
+      "StrikeRate": "142.59"
+    },
+    "A Mishra": {
+      "StrikeRate": "87.50"
+    },
+    "S Nadeem": {
+      "StrikeRate": "22.22"
+    },
+    "Z Khan": {
+      "StrikeRate": "30.77"
+    },
+    "DR Smith": {
+      "StrikeRate": "151.27"
+    },
+    "DS Kulkarni": {
+      "StrikeRate": "50.00"
+    },
+    "P Kumar": {
+      "StrikeRate": "88.89"
+    },
+    "Basil Thampi": {
+      "StrikeRate": "93.33"
+    },
+    "RV Uthappa": {
+      "StrikeRate": "162.34"
+    },
+    "MK Pandey": {
+      "StrikeRate": "125.71"
+    },
+    "YK Pathan": {
+      "StrikeRate": "116.26"
+    },
+    "SA Yadav": {
+      "StrikeRate": "117.98"
+    },
+    "CR Woakes": {
+      "StrikeRate": "97.87"
+    },
+    "SP Narine": {
+      "StrikeRate": "165.93"
+    },
+    "Harbhajan Singh": {
+      "StrikeRate": "94.12"
+    },
+    "AB de Villiers": {
+      "StrikeRate": "126.32"
+    },
+    "CJ Anderson": {
+      "StrikeRate": "109.23"
+    },
+    "F du Plessis": {
+      "StrikeRate": "114.29"
+    },
+    "RA Tripathi": {
+      "StrikeRate": "142.18"
+    },
+    "R Bhatia": {
+      "StrikeRate": "94.12"
+    },
+    "DL Chahar": {
+      "StrikeRate": "233.33"
+    },
+    "A Zampa": {
+      "StrikeRate": "71.43"
+    },
+    "AB Dinda": {
+      "StrikeRate": "87.50"
+    },
+    "Imran Tahir": {
+      "StrikeRate": "0.00"
+    },
+    "NV Ojha": {
+      "StrikeRate": "112.86"
+    },
+    "V Shankar": {
+      "StrikeRate": "131.17"
+    },
+    "Rashid Khan": {
+      "StrikeRate": "122.22"
+    },
+    "B Kumar": {
+      "StrikeRate": "100.00"
+    },
+    "MP Stoinis": {
+      "StrikeRate": "68.00"
+    },
+    "MM Sharma": {
+      "StrikeRate": "100.00"
+    },
+    "VR Aaron": {
+      "StrikeRate": "36.36"
+    },
+    "V Kohli": {
+      "StrikeRate": "119.84"
+    },
+    "MJ McClenaghan": {
+      "StrikeRate": "100.00"
+    },
+    "Ankit Sharma": {
+      "StrikeRate": "156.25"
+    },
+    "SN Thakur": {
+      "StrikeRate": "0.00"
+    },
+    "RD Chahar": {
+      "StrikeRate": "150.00"
+    },
+    "LH Ferguson": {
+      "StrikeRate": "100.00"
+    },
+    "C de Grandhomme": {
+      "StrikeRate": "136.96"
+    },
+    "Bipul Sharma": {
+      "StrikeRate": "124.00"
+    },
+    "SS Iyer": {
+      "StrikeRate": "135.74"
+    },
+    "EJG Morgan": {
+      "StrikeRate": "104.84"
+    },
+    "KC Cariappa": {
+      "StrikeRate": "28.57"
+    },
+    "Sandeep Sharma": {
+      "StrikeRate": "100.00"
+    },
+    "Ishan Kishan": {
+      "StrikeRate": "129.44"
+    },
+    "JD Unadkat": {
+      "StrikeRate": "40.00"
+    },
+    "AF Milne": {
+      "StrikeRate": "58.33"
+    },
+    "S Badree": {
+      "StrikeRate": "52.00"
+    },
+    "AD Mathews": {
+      "StrikeRate": "114.29"
+    },
+    "Mohammed Shami": {
+      "StrikeRate": "150.00"
+    },
+    "Mohammad Nabi": {
+      "StrikeRate": "66.67"
+    },
+    "I Sharma": {
+      "StrikeRate": "61.54"
+    },
+    "RA Jadeja": {
+      "StrikeRate": "133.90"
+    },
+    "AJ Tye": {
+      "StrikeRate": "176.67"
+    },
+    "KS Williamson": {
+      "StrikeRate": "150.59"
+    },
+    "SE Marsh": {
+      "StrikeRate": "133.33"
+    },
+    "Shakib Al Hasan": {
+      "StrikeRate": "100.00"
+    },
+    "JP Faulkner": {
+      "StrikeRate": "90.00"
+    },
+    "MG Johnson": {
+      "StrikeRate": "117.65"
+    },
+    "K Rabada": {
+      "StrikeRate": "80.88"
+    },
+    "AD Nath": {
+      "StrikeRate": "0.00"
+    },
+    "NM Coulter-Nile": {
+      "StrikeRate": "107.69"
+    },
+    "Kuldeep Yadav": {
+      "StrikeRate": "90.91"
+    },
+    "UT Yadav": {
+      "StrikeRate": "76.92"
+    },
+    "Washington Sundar": {
+      "StrikeRate": "75.00"
+    },
+    "KV Sharma": {
+      "StrikeRate": "116.67"
+    },
+    "DM Bravo": {
+      "StrikeRate": "120.00"
+    },
+    "AR Bawne": {
+      "StrikeRate": "100.00"
+    },
+    "SP Jackson": {
+      "StrikeRate": "122.58"
+    },
+    "MJ Guptill": {
+      "StrikeRate": "150.00"
+    },
+    "Anureet Singh": {
+      "StrikeRate": "125.00"
+    },
+    "IK Pathan": {
+      "StrikeRate": "66.67"
+    },
+    "Ankit Soni": {
+      "StrikeRate": "77.78"
+    },
+    "JJ Bumrah": {
+      "StrikeRate": "133.33"
+    },
+    "SL Malinga": {
+      "StrikeRate": "233.33"
+    },
+    "PJ Sangwan": {
+      "StrikeRate": "50.00"
+    },
+    "S Kaul": {
+      "StrikeRate": "0.00"
+    },
+    "LMP Simmons": {
+      "StrikeRate": "118.10"
+    },
+    "MN Samuels": {
+      "StrikeRate": "90.63"
+    },
+    "Swapnil Singh": {
+      "StrikeRate": "63.16"
+    },
+    "R Tewatia": {
+      "StrikeRate": "172.73"
+    },
+    "MM Patel": {
+      "StrikeRate": "0.00"
+    },
+    "SS Tiwary": {
+      "StrikeRate": "113.04"
+    },
+    "TA Boult": {
+      "StrikeRate": "62.50"
+    },
+    "CJ Jordan": {
+      "StrikeRate": "0.00"
+    },
+    "IR Jaggi": {
+      "StrikeRate": "82.50"
+    },
+    "PP Chawla": {
+      "StrikeRate": "33.33"
+    },
+    "AS Rajpoot": {
+      "StrikeRate": "57.14"
+    }
+  }
+}

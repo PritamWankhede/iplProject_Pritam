@@ -14,16 +14,10 @@
     
         let bowlerStats = {};
         for (let delivery of deliveryData) {
-            let deliveryId = delivery["match_id"];
-            let bowler = delivery["bowler"];
-            let totalRun = delivery["total_runs"];
-            let byeRun = delivery["bye_runs"];
-            let legByeRun = delivery["legbye_runs"];
-            let penaltyRun = delivery["penalty_runs"];
-            let wide = delivery["wide_runs"];
-            let noBall = delivery["noball_runs"];
+            let { match_id: deliveryId, bowler, total_runs: totalRun, bye_runs: byeRun, legbye_runs: legByeRun, 
+                          penalty_runs: penaltyRun, wide_runs: wide, noball_runs: noBall } = delivery;
             let season = matchIdSeason[deliveryId];
-            
+    
             if (season === 2015) {
                 if (!bowlerStats.hasOwnProperty(bowler)) {
                     bowlerStats[bowler] = { totalRuns: 0, validBalls: 0 };
@@ -38,13 +32,12 @@
         }
     
         let economyRates = [];
-           for (let bowler in bowlerStats) {
-              let stats = bowlerStats[bowler];
-              let totalBalls = stats.validBalls;
-              let totalRuns = stats.totalRuns;
-              let economyRate = (totalRuns / totalBalls) * 6;
-             economyRates.push({ bowler: bowler, economyRate: economyRate });
+        for (let bowler in bowlerStats) {
+            let { validBalls: totalBalls, totalRuns } = bowlerStats[bowler];
+            let economyRate = (totalRuns / totalBalls) * 6;
+            economyRates.push({ bowler: bowler, economyRate: economyRate });
         }
+    
         economyRates.sort((a, b) => a.economyRate - b.economyRate);
         let top10Bowlers = economyRates.slice(0, 10);
         return top10Bowlers;

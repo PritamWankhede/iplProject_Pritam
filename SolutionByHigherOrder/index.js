@@ -1,6 +1,6 @@
 const matchesData = require('../csvToJson/matches.json');
 const deliveryData = require('../csvToJson/deliveries.json'); 
-const files = require('./output');
+const files = require('./output.js');
 
 const matchesPlayed = require('../SolutionByHigherOrder/1-MatchesPlayedPerYear');
 const matchWonPerYear = require('../SolutionByHigherOrder/2-MatchesWonPerYear');
